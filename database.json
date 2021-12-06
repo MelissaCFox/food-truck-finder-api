@@ -1,0 +1,327 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Melissa Fox",
+            "email": "melissa@fox.com",
+            "truckOwner": true
+        },
+        {
+            "id": 2,
+            "name": "Jo Harvell",
+            "email": "jo@harv.com",
+            "truckOwner": true
+        },
+        {
+            "id": 3,
+            "name": "Fergus Crowley",
+            "email": "fergus@crowley.com",
+            "truckOwner": true
+        },
+        {
+            "id": 4,
+            "name": "Chuck Shurley",
+            "email": "chuck@god.com",
+            "truckOwner": true
+        } ,
+        {
+            "id": 5,
+            "name": "Grace Fox",
+            "email": "grace@fox.com",
+            "truckOwner": true
+        } ,
+        {
+            "id": 6,
+            "name": "Dean Wesson",
+            "email": "dean@wesson.com",
+            "truckOwner": false
+        } ,
+        {
+            "id": 7,
+            "name": "Cas Tiel",
+            "email": "cas@tiel.com",
+            "truckOwner": true
+        } ,
+        {
+            "id": 8,
+            "name": "Sam Smith",
+            "email": "sam@smith.com",
+            "truckOwner": true
+        } ,
+        {
+            "id": 9,
+            "name": "Bobby Singer",
+            "email": "bobby@singer.com",
+            "truckOwner": false
+        } ,
+        {
+            "id": 10,
+            "name": "Mary Campbell",
+            "email": "mary@campbell.com",
+            "truckOwner": false
+        } 
+    ],
+    "trucks": [
+        {
+            "id": 1,
+            "name": "Grilled Cheeserie",
+            "foodtypeId": 5,
+            "description": "Grilled cheese. Need we say more?",
+            "websiteURL": "https://grilledcheeserie.com/",
+            "instagramURL": "https://www.instagram.com/thegrilledcheeserie/",
+            "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/15894691_446926545696383_836555503444420918_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mvZNF9EKZXoAX_SsxOG&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=24fd052765c95c31f41a0fa9ad43ddb1&oe=61D1EDDC",
+            "hours": "12pm-4pm",
+            "dollars": 1,
+            "userRating": 4.5
+
+        },
+        {
+            "id": 2,
+            "name": "Yayo's OMG",
+            "foodtypeId": 2,
+            "description": "Vintage Mexican cuisine with a modern twist",
+            "websiteURL": "https://yayosomg.com/",
+            "instagramURL": "https://www.instagram.com/yayosomg/",
+            "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/216266_167892329930988_2860126_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4uIhewS0FNEAX_ax1q6&_nc_ht=scontent-atl3-2.xx&oh=92930e0702782ca377ef0f7798c69696&oe=61D5CF85",
+            "hours": "11am-3pm",
+            "dollars": 1,
+            "userRating": 4.6
+
+        },
+        {
+            "id": 3,
+            "name": "Blue Monkey Shaved Ice",
+            "foodtypeId": 3,
+            "description": "Gourmet Hawaiian shaved ice made with 100% cane sugar",
+            "websiteURL": "https://www.bluemonkeyshavedice.com/",
+            "instagramURL": "https://www.instagram.com/bluemonkeyice/",
+            "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/181569119_3933528183396908_8191068417583736295_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=iiIDeyiBfBYAX9hOSE0&_nc_ht=scontent-atl3-2.xx&oh=7331f6fd9ef06646187cd5445233a5f3&oe=61D4FA6C",
+            "hours": "10am-4pm",
+            "dollars": 1,
+            "userRating": 4.9
+
+        },
+        {
+            "id": 4,
+            "name": "Cousins Maine Lobster",
+            "foodtypeId": 1,
+            "description": "Authentic Maine lobseter - as seen on Shark Tank!.",
+            "websiteURL": "https://www.cousinsmainelobster.com/locations/nashville-tn/",
+            "instagramURL": "https://www.instagram.com/cousinsmainelobster/",
+            "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/120038346_3416632551738335_1713002865758525185_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GHHQAeGGZHkAX_bRtxH&_nc_ht=scontent-atl3-2.xx&oh=695b5c2d06d0ce8078fa2e5d95757348&oe=61D2C30E",
+            "hours": "4pm-7pm",
+            "dollars": 2,
+            "userRating": 3.9
+
+        },
+        {
+            "id": 5,
+            "name": "Deg Thai",
+            "foodtypeId": 4,
+            "description": "Thai... with a twist!",
+            "websiteURL": "https://degthai.com/",
+            "instagramURL": "https://www.instagram.com/degthaistreetfood/",
+            "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/148088040_5640537025972226_6667369788664367500_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jDUef2dgQo0AX_kFLec&_nc_ht=scontent-atl3-2.xx&oh=069c541922afd6d70ad2df04fa4d0668&oe=61D3DDCD",
+            "hours": "12pm-2pm",
+            "dollars": 2,
+            "userRating": 4.8
+
+        },
+        {
+            "id": 6,
+            "name": "Funk Seoul Brother",
+            "foodtypeId": 4,
+            "description": "Korean street food featuring crowd-pleasing Korean fried chicken, poke, and ramen",
+            "websiteURL": "https://www.facebook.com/funkseoultruck/",
+            "instagramURL": "https://www.instagram.com/funkseoultruck/?hl=en",
+            "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/13988121_1127865500590047_875621548803343299_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=HMEaqITE8VgAX9TsxRq&_nc_ht=scontent-atl3-2.xx&oh=3da706c4e302abf94429f455de960657&oe=61D501BB",
+            "hours": "1pm-3pm",
+            "dollars": 2,
+            "userRating": 3.6
+
+        },
+        {
+            "id": 7,
+            "name": "Il Forno",
+            "foodtypeId": 6,
+            "description": "A synergy of fresh ingredients and centuries old traditions. welcome to Nashville's authentic mobile pizzeria.",
+            "websiteURL": "https://ilfornowoodfired.com/",
+            "instagramURL": "https://www.instagram.com/ilfornonashville/?hl=en",
+            "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/19488601_428524294201645_5413051548439124358_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=_BiPdEMTdD8AX-V5A33&_nc_ht=scontent-atl3-2.xx&oh=2dc06f581503d4f12f235da0add60705&oe=61D3FE2E",
+            "hours": "4pm-7pm",
+            "dollars": 2,
+            "userRating": 4.8
+
+        },
+        {
+            "id": 8,
+            "name": "Smoke Et Al",
+            "foodtypeId": 5,
+            "description": "",
+            "websiteURL": "https://www.smokeetal.com/",
+            "instagramURL": "https://www.instagram.com/SmokeEtAlFoodTruck/",
+            "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/27540290_1736086619787443_8332390477082173782_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jZWNpEHri5wAX_ucmGh&_nc_ht=scontent-atl3-2.xx&oh=83cad04b5536060e5053f0bfa3ba6f10&oe=61D466EB",
+            "hours": "11am-4pm",
+            "dollars": 2,
+            "userRating": 4
+
+        }
+    ],
+    "truckOwners": [
+        {
+            "id": 1,
+            "userId": 1,
+            "truckId": 1
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "truckId": 2
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "truckId": 3
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "truckId": 4
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "truckId": 5
+        },
+        {
+            "id": 6,
+            "userId": 6,
+            "truckId": 6
+        },
+        {
+            "id": 7,
+            "userId": 7,
+            "truckId": 7
+        },
+        {
+            "id": 8,
+            "userId": 8,
+            "truckId": 8
+        }
+    ],
+    "foodTypes": [
+        {
+            "id": 1,
+            "type": "Seafood"
+        },
+        {
+            "id": 2,
+            "type": "Mexican"
+        },
+        {
+            "id": 3,
+            "type": "Desert"
+        },
+        {
+            "id": 4,
+            "type": "Asian-Fusion"
+        },
+        {
+            "id": 5,
+            "type": "American"
+        },
+        {
+            "id": 6,
+            "type": "Italian"
+        }
+    ],
+    "userTruckFavorites": [
+        {
+           "id": 1,
+           "userId": 1,
+           "truckId": 1 
+        }
+    ],
+    "userTruckReviews": [
+        {
+           "id": 1,
+           "userId": 2,
+           "truckId": 1,
+           "review": "So delicious and super fast service!",
+           "date": "12/4/2021"
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "truckId": 1,
+            "review": "SOOOO GOOOOD! My favorite food truck in Nashville!",
+            "date": "12/6/2021"
+         }
+    ],
+    "neighborhoods": [
+        {
+            "id": 1,
+            "name": "Hillsboro Village",
+            "description": "Tree-lined streets of Wedewood and 21st Ave, adjacent to the campuses of both Vanderbilt and Belmont Universities."
+        },
+        {
+            "id": 2,
+            "name": "5 Points",
+            "description": "Located within the heart of East Nashville, along Woodland Street and the Cumberland River."
+        },
+        {
+            "id": 3,
+            "name": "Germantown",
+            "description": "Trendy nieghborhood directly north of downtown Nasvhille."
+        },
+        {
+            "id": 4,
+            "name": "The Gulch",
+            "description": "South southwest of downtown, along 11th and 12th Ave, the Gulch is also home to the Station Inn and City Hall music venues."
+        },
+        {
+            "id": 5,
+            "name": "12 South",
+            "description": "Extremely pedestrian-friendly, the main strip of this neighborhood starts around 12th and Kirkwood Ave, near Sevier Park."
+        }
+    ],
+    "Days": [
+        {
+            "id": 1,
+            "day": "Sunday"
+        },
+        {
+            "id": 2,
+            "day": "Monday"
+        },
+        {
+            "id": 3,
+            "day": "Tuesday"
+        },
+        {
+            "id": 4,
+            "day": "Wednesday"
+        },
+        {
+            "id": 5,
+            "day": "Thursday"
+        },
+        {
+            "id": 6,
+            "day": "Friday"
+        },
+        {
+            "id": 7,
+            "day": "Saturday"
+        }
+    ],
+    "truckLocations": [
+        {
+            "id": 1,
+            "truckId": 1,
+            "locationId": 1,
+            "dayId": 2
+        }
+    ]
+
+}
