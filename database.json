@@ -4,61 +4,61 @@
       "id": 1,
       "name": "Melissa Fox",
       "email": "melissa@fox.com",
-      "truckOwner": true
+      "owner": false
     },
     {
       "id": 2,
       "name": "Jo Harvell",
       "email": "jo@harv.com",
-      "truckOwner": true
+      "owner": true
     },
     {
       "id": 3,
       "name": "Fergus Crowley",
       "email": "fergus@crowley.com",
-      "truckOwner": true
+      "owner": true
     },
     {
       "id": 4,
       "name": "Chuck Shurley",
       "email": "chuck@god.com",
-      "truckOwner": true
+      "owner": true
     },
     {
       "id": 5,
       "name": "Grace Fox",
       "email": "grace@fox.com",
-      "truckOwner": true
+      "owner": true
     },
     {
       "id": 6,
       "name": "Dean Wesson",
       "email": "dean@wesson.com",
-      "truckOwner": false
+      "owner": true
     },
     {
       "id": 7,
       "name": "Cas Tiel",
       "email": "cas@tiel.com",
-      "truckOwner": true
+      "owner": true
     },
     {
       "id": 8,
       "name": "Sam Smith",
       "email": "sam@smith.com",
-      "truckOwner": true
+      "owner": true
     },
     {
       "id": 9,
       "name": "Bobby Singer",
       "email": "bobby@singer.com",
-      "truckOwner": false
+      "owner": false
     },
     {
       "id": 10,
       "name": "Mary Campbell",
       "email": "mary@campbell.com",
-      "truckOwner": false
+      "owner": false
     }
   ],
   "trucks": [
@@ -157,12 +157,24 @@
       "hours": "11am-4pm",
       "dollars": 2,
       "userRating": 4
+    },
+    {
+      "name": "Rovin Ravioli",
+      "foodTypeId": 6,
+      "description": "We sell one thing and one thing only.... Ravioli",
+      "websiteURL": "www.google.com",
+      "instagramURL": "https://www.instagram.com/melfox90/",
+      "profileImgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGURuL5oVfck9fQPkil0RhPukPoLYYqfcHw&usqp=CAU",
+      "hours": "10am-4pm",
+      "dollars": 2,
+      "userRating": null,
+      "id": 9
     }
   ],
   "truckOwners": [
     {
       "id": 1,
-      "userId": 1,
+      "userId": 6,
       "truckId": 1
     },
     {
@@ -199,6 +211,11 @@
       "id": 8,
       "userId": 8,
       "truckId": 8
+    },
+    {
+      "userId": 6,
+      "truckId": 9,
+      "id": 9
     }
   ],
   "foodTypes": [
@@ -229,9 +246,29 @@
   ],
   "userTruckFavorites": [
     {
-      "id": 1,
       "userId": 1,
-      "truckId": 1
+      "truckId": 3,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "truckId": 6,
+      "id": 2
+    },
+    {
+      "userId": 6,
+      "truckId": 6,
+      "id": 3
+    },
+    {
+      "userId": 6,
+      "truckId": 3,
+      "id": 4
+    },
+    {
+      "userId": 6,
+      "truckId": 1,
+      "id": 5
     }
   ],
   "userTruckReviews": [
@@ -251,15 +288,24 @@
     },
     {
       "truckId": 1,
+      "userId": 6,
       "review": "Fast service, but sandwich was a little cold",
       "date": "2021-12-05",
       "id": 3
     },
     {
       "truckId": 3,
+      "userId": 1,
       "review": "Wow, I love this shaved ice so much! Reminds me of my trip to Maui :)",
       "date": "2021-12-07",
       "id": 4
+    },
+    {
+      "userId": 1,
+      "truckId": 4,
+      "review": "Tastes just like Maine!",
+      "date": "2021-12-08",
+      "id": 5
     }
   ],
   "neighborhoods": [
@@ -518,10 +564,10 @@
       "dayId": 4
     },
     {
-      "id": 33,
       "truckId": 5,
-      "neighborhoodId": 5,
-      "dayId": 5
+      "neighborhoodId": 1,
+      "dayId": 5,
+      "id": 33
     },
     {
       "id": 34,
