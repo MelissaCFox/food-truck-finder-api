@@ -203,6 +203,7 @@
       "userRating": 3
     },
     {
+      "id": 9,
       "name": "Rovin Ravioli",
       "foodTypeId": 6,
       "description": "We sell one thing and one thing only.... Ravioli",
@@ -211,8 +212,7 @@
       "profileImgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGURuL5oVfck9fQPkil0RhPukPoLYYqfcHw&usqp=CAU",
       "hours": "10am-4pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 9
+      "userRating": 2
     },
     {
       "name": "There's Something About Mozzarella",
@@ -439,6 +439,15 @@
       "anonymous": false,
       "rating": 3,
       "id": 9
+    },
+    {
+      "userId": 1,
+      "truckId": 9,
+      "review": "Meh, it was alright. Kinda rubbery.",
+      "date": "2021-12-07",
+      "anonymous": true,
+      "rating": 2,
+      "id": 10
     }
   ],
   "neighborhoods": [
@@ -983,6 +992,73 @@
       "neighborhoodId": 2,
       "dayId": 5,
       "id": 93
+    }
+  ],
+  "truckFoodTypes": [
+    {
+      "id": 1,
+      "truckId": 1,
+      "foodTypeId": 5
+    },
+    {
+      "id": 2,
+      "truckId": 2,
+      "foodTypeId": 2
+    },
+    {
+      "id": 3,
+      "truckId": 3,
+      "foodTypeId": 3
+    },
+    {
+      "id": 4,
+      "truckId": 4,
+      "foodTypeId": 1
+    },
+    {
+      "id": 5,
+      "truckId": 5,
+      "foodTypeId": 4
+    },
+    {
+      "id": 6,
+      "truckId": 6,
+      "foodTypeId": 4
+    },
+    {
+      "id": 7,
+      "truckId": 7,
+      "foodTypeId": 6
+    },
+    {
+      "id": 8,
+      "truckId": 8,
+      "foodTypeId": 5
+    },
+    {
+      "id": 9,
+      "truckId": 9,
+      "foodTypeId": 6
+    },
+    {
+      "id": 10,
+      "truckId": 10,
+      "foodTypeId": 6
+    },
+    {
+      "id": 11,
+      "truckId": 11,
+      "foodTypeId": 3
+    },
+    {
+      "id": 12,
+      "truckId": 12,
+      "foodTypeId": 3
+    },
+    {
+      "id": 13,
+      "truckId": 9,
+      "foodTypeId": 5
     }
   ]
 }
