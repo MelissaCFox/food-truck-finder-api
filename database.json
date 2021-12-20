@@ -128,7 +128,7 @@
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/216266_167892329930988_2860126_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4uIhewS0FNEAX_ax1q6&_nc_ht=scontent-atl3-2.xx&oh=92930e0702782ca377ef0f7798c69696&oe=61D5CF85",
       "hours": "11am-3pm",
       "dollars": 1,
-      "userRating": 4.6
+      "userRating": 2.3333333333333335
     },
     {
       "id": 3,
@@ -140,7 +140,7 @@
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/181569119_3933528183396908_8191068417583736295_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=iiIDeyiBfBYAX9hOSE0&_nc_ht=scontent-atl3-2.xx&oh=7331f6fd9ef06646187cd5445233a5f3&oe=61D4FA6C",
       "hours": "10am-4pm",
       "dollars": 1,
-      "userRating": 5
+      "userRating": 3
     },
     {
       "id": 4,
@@ -176,7 +176,7 @@
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/13988121_1127865500590047_875621548803343299_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=HMEaqITE8VgAX9TsxRq&_nc_ht=scontent-atl3-2.xx&oh=3da706c4e302abf94429f455de960657&oe=61D501BB",
       "hours": "1pm-3pm",
       "dollars": 2,
-      "userRating": 3.6
+      "userRating": 0
     },
     {
       "id": 7,
@@ -374,6 +374,31 @@
       "userId": 12,
       "truckId": 4,
       "id": 35
+    },
+    {
+      "userId": 13,
+      "truckId": 1,
+      "id": 36
+    },
+    {
+      "userId": 13,
+      "truckId": 4,
+      "id": 39
+    },
+    {
+      "userId": 13,
+      "truckId": 3,
+      "id": 40
+    },
+    {
+      "userId": 13,
+      "truckId": 12,
+      "id": 41
+    },
+    {
+      "userId": 1,
+      "truckId": 2,
+      "id": 42
     }
   ],
   "userTruckReviews": [
@@ -439,6 +464,33 @@
       "anonymous": false,
       "rating": 3,
       "id": 9
+    },
+    {
+      "userId": 1,
+      "truckId": 2,
+      "review": "5",
+      "date": "2021-12-08",
+      "anonymous": false,
+      "rating": 5,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "truckId": 2,
+      "review": "1",
+      "date": "2021-12-13",
+      "anonymous": false,
+      "rating": 1,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "truckId": 2,
+      "review": "1",
+      "date": "2021-12-13",
+      "anonymous": false,
+      "rating": 1,
+      "id": 12
     }
   ],
   "neighborhoods": [
