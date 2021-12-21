@@ -128,7 +128,7 @@
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/216266_167892329930988_2860126_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4uIhewS0FNEAX_ax1q6&_nc_ht=scontent-atl3-2.xx&oh=92930e0702782ca377ef0f7798c69696&oe=61D5CF85",
       "hours": "11am-3pm",
       "dollars": 1,
-      "userRating": 2.3333333333333335
+      "userRating": 1
     },
     {
       "id": 3,
@@ -249,6 +249,18 @@
       "dollars": 2,
       "userRating": 5,
       "id": 12
+    },
+    {
+      "name": "Twisted Thai",
+      "foodTypeId": 4,
+      "description": "Thai inspired street food with a twist!",
+      "websiteURL": "https://twitter.com/twistedthai?lang=en",
+      "instagramURL": "https://www.instagram.com/twistedthai/?hl=en",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/16266220_384553188591992_711093882303317474_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P1jkNVYcIN0AX_3DPqQ&_nc_ht=scontent-atl3-2.xx&oh=00_AT8Z0XkbEVmxAjyA8A3qLpvFrfvFjHvPcOnsUmW8hgv1Sg&oe=61E590AB",
+      "hours": "11-2",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 13
     }
   ],
   "truckOwners": [
@@ -311,6 +323,11 @@
       "userId": 2,
       "truckId": 12,
       "id": 12
+    },
+    {
+      "userId": 12,
+      "truckId": 13,
+      "id": 13
     }
   ],
   "foodTypes": [
@@ -324,7 +341,7 @@
     },
     {
       "id": 3,
-      "type": "Desert"
+      "type": "Dessert"
     },
     {
       "id": 4,
@@ -337,6 +354,10 @@
     {
       "id": 6,
       "type": "Italian"
+    },
+    {
+      "type": "Thai",
+      "id": 7
     }
   ],
   "userTruckFavorites": [
@@ -367,11 +388,6 @@
     },
     {
       "userId": 12,
-      "truckId": 12,
-      "id": 34
-    },
-    {
-      "userId": 12,
       "truckId": 4,
       "id": 35
     },
@@ -396,9 +412,24 @@
       "id": 41
     },
     {
+      "userId": 12,
+      "truckId": 1,
+      "id": 43
+    },
+    {
+      "userId": 12,
+      "truckId": 12,
+      "id": 44
+    },
+    {
+      "userId": 12,
+      "truckId": 8,
+      "id": 45
+    },
+    {
       "userId": 1,
-      "truckId": 2,
-      "id": 42
+      "truckId": 12,
+      "id": 46
     }
   ],
   "userTruckReviews": [
@@ -473,6 +504,15 @@
       "anonymous": true,
       "rating": 2,
       "id": 10
+    },
+    {
+      "userId": 1,
+      "truckId": 2,
+      "review": "eh",
+      "date": "2021-12-09",
+      "anonymous": true,
+      "rating": 1,
+      "id": 11
     }
   ],
   "neighborhoods": [
@@ -1017,6 +1057,48 @@
       "neighborhoodId": 2,
       "dayId": 5,
       "id": 93
+    },
+    {
+      "truckId": 13,
+      "neighborhoodId": 1,
+      "dayId": 1,
+      "id": 94
+    },
+    {
+      "truckId": 13,
+      "neighborhoodId": 5,
+      "dayId": 2,
+      "id": 95
+    },
+    {
+      "truckId": 13,
+      "neighborhoodId": 5,
+      "dayId": 3,
+      "id": 96
+    },
+    {
+      "truckId": 13,
+      "neighborhoodId": 5,
+      "dayId": 4,
+      "id": 97
+    },
+    {
+      "truckId": 13,
+      "neighborhoodId": 4,
+      "dayId": 5,
+      "id": 98
+    },
+    {
+      "truckId": 13,
+      "neighborhoodId": 1,
+      "dayId": 6,
+      "id": 99
+    },
+    {
+      "truckId": 13,
+      "neighborhoodId": 2,
+      "dayId": 7,
+      "id": 100
     }
   ],
   "truckFoodTypes": [
@@ -1084,6 +1166,63 @@
       "id": 13,
       "truckId": 9,
       "foodTypeId": 5
+    },
+    {
+      "truckId": 13,
+      "foodTypeId": 4,
+      "id": 14
+    },
+    {
+      "truckId": 13,
+      "foodTypeId": 7,
+      "id": 15
+    }
+  ],
+  "suggestions": [
+    {
+      "userId": 1,
+      "truckId": 13,
+      "neighborhoodId": 4,
+      "date": "2021-12-25",
+      "message": "Santa brunch at Elmington Park from 11am-2pm.",
+      "read": false,
+      "id": 2
+    },
+    {
+      "userId": 12,
+      "truckId": 13,
+      "neighborhoodId": 5,
+      "date": "2021-12-24",
+      "message": "just for fun",
+      "read": true,
+      "id": 3
+    },
+    {
+      "userId": 12,
+      "truckId": 13,
+      "neighborhoodId": 3,
+      "date": "2021-12-17",
+      "message": "3rd message to see about spacing",
+      "read": true,
+      "id": 4
+    },
+    {
+      "userId": 12,
+      "truckId": 13,
+      "neighborhoodId": 4,
+      "date": "2021-12-17",
+      "message": "4th message so see about spacing for second row",
+      "read": true,
+      "id": 5
+    },
+    {
+      "userId": 6,
+      "truckId": 3,
+      "neighborhoodId": 5,
+      "date": "2021-12-25",
+      "message": "Feel like some xmas shaved ice???",
+      "read": false,
+      "id": 6
     }
   ]
 }
