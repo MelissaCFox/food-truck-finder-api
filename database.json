@@ -109,7 +109,6 @@
     {
       "id": 1,
       "name": "Grilled Cheeserie",
-      "foodTypeId": 5,
       "description": "Grilled cheese. Need we say more?",
       "websiteURL": "https://grilledcheeserie.com/",
       "instagramURL": "https://www.instagram.com/thegrilledcheeserie/",
@@ -121,19 +120,17 @@
     {
       "id": 2,
       "name": "Yayo's OMG",
-      "foodTypeId": 2,
       "description": "Vintage Mexican cuisine with a modern twist",
       "websiteURL": "https://yayosomg.com/",
       "instagramURL": "https://www.instagram.com/yayosomg/",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/216266_167892329930988_2860126_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4uIhewS0FNEAX_ax1q6&_nc_ht=scontent-atl3-2.xx&oh=92930e0702782ca377ef0f7798c69696&oe=61D5CF85",
       "hours": "11am-3pm",
       "dollars": 1,
-      "userRating": 1
+      "userRating": 0
     },
     {
       "id": 3,
       "name": "Blue Monkey Shaved Ice",
-      "foodTypeId": 3,
       "description": "Gourmet Hawaiian shaved ice made with 100% cane sugar",
       "websiteURL": "https://www.bluemonkeyshavedice.com/",
       "instagramURL": "https://www.instagram.com/bluemonkeyice/",
@@ -145,7 +142,6 @@
     {
       "id": 4,
       "name": "Cousins Maine Lobster",
-      "foodTypeId": 1,
       "description": "Authentic Maine lobster - as seen on Shark Tank!",
       "websiteURL": "https://www.cousinsmainelobster.com/locations/nashville-tn/",
       "instagramURL": "https://www.instagram.com/cousinsmainelobster/",
@@ -157,7 +153,6 @@
     {
       "id": 5,
       "name": "Deg Thai",
-      "foodTypeId": 4,
       "description": "Thai... with a twist!",
       "websiteURL": "https://degthai.com/",
       "instagramURL": "https://www.instagram.com/degthaistreetfood/",
@@ -169,7 +164,6 @@
     {
       "id": 6,
       "name": "Funk Seoul Brother",
-      "foodTypeId": 4,
       "description": "Korean street food featuring crowd-pleasing Korean fried chicken, poke, and ramen",
       "websiteURL": "https://www.facebook.com/funkseoultruck/",
       "instagramURL": "https://www.instagram.com/funkseoultruck/?hl=en",
@@ -181,7 +175,6 @@
     {
       "id": 7,
       "name": "Il Forno",
-      "foodTypeId": 6,
       "description": "A synergy of fresh ingredients and centuries old traditions. welcome to Nashville's authentic mobile pizzeria.",
       "websiteURL": "https://ilfornowoodfired.com/",
       "instagramURL": "https://www.instagram.com/ilfornonashville/?hl=en",
@@ -193,7 +186,6 @@
     {
       "id": 8,
       "name": "Smoke Et Al",
-      "foodTypeId": 5,
       "description": "Why did this description disappear?",
       "websiteURL": "https://www.smokeetal.com/",
       "instagramURL": "https://www.instagram.com/SmokeEtAlFoodTruck/",
@@ -205,7 +197,6 @@
     {
       "id": 9,
       "name": "Rovin Ravioli",
-      "foodTypeId": 6,
       "description": "We sell one thing and one thing only.... Ravioli",
       "websiteURL": "https://www.google.com/search?q=ravioli&sxsrf=AOaemvKb8dl7pHVFT0797vvufXrRMbiUWw:1639096644947&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiD95fq_tf0AhWQct8KHdlJAQgQ_AUoAXoECAIQAw&biw=1920&bih=937&dpr=1",
       "instagramURL": "https://www.instagram.com/raviolo_factory",
@@ -215,20 +206,18 @@
       "userRating": 2
     },
     {
+      "id": 10,
       "name": "There's Something About Mozzarella",
-      "foodTypeId": 6,
       "description": "Cheese... there's just something about it",
       "websiteURL": "https://www.imdb.com/title/tt0129387/",
       "instagramURL": "https://www.instagram.com/explore/search/keyword/?hl=en&q=mozzarella",
       "profileImgSrc": "https://cdn.shopify.com/s/files/1/2836/2982/products/mozzarella-cheese_grande.jpg?v=1529434174",
       "hours": "1-1:20pm",
       "dollars": 3,
-      "userRating": 1,
-      "id": 10
+      "userRating": 0
     },
     {
       "name": "Gypsy Crepe Company",
-      "foodTypeId": 3,
       "description": "Sweet and savory crepes served in traditional Paris street-style cones",
       "websiteURL": "https://www.gypsycrepecompany.com/",
       "instagramURL": "https://www.instagram.com/gypsycrepeco/?hl=en",
@@ -239,22 +228,20 @@
       "id": 11
     },
     {
+      "id": 12,
       "name": "Driving You Donuts",
-      "foodTypeId": 3,
       "description": "A donut kitchen on wheels.",
       "websiteURL": " http://www.drivingyoudonuts.com/",
       "instagramURL": "https://www.instagram.com/drivingyoudonuts/?hl=en",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/162670894_270943864521688_7233244360258708695_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ltOQz7fQ4n8AX9lmap4&_nc_ht=scontent-atl3-2.xx&oh=8b81fb99126763ddec4e238533c431af&oe=61DE5758",
       "hours": "8:30am-11am",
       "dollars": 2,
-      "userRating": 5,
-      "id": 12
+      "userRating": 5
     },
     {
       "name": "Twisted Thai",
-      "foodTypeId": 4,
       "description": "Thai inspired street food with a twist!",
-      "websiteURL": "https://twitter.com/twistedthai?lang=en",
+      "wezbsiteURL": "https://twitter.com/twistedthai?lang=en",
       "instagramURL": "https://www.instagram.com/twistedthai/?hl=en",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/16266220_384553188591992_711093882303317474_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P1jkNVYcIN0AX_3DPqQ&_nc_ht=scontent-atl3-2.xx&oh=00_AT8Z0XkbEVmxAjyA8A3qLpvFrfvFjHvPcOnsUmW8hgv1Sg&oe=61E590AB",
       "hours": "11-2",
@@ -462,15 +449,6 @@
     },
     {
       "userId": 1,
-      "truckId": 10,
-      "review": "Well. It's mozzarella. It's just cheese. Kinda rubbery.",
-      "date": "2021-12-08",
-      "id": 6,
-      "rating": 1,
-      "anonymous": true
-    },
-    {
-      "userId": 1,
       "truckId": 12,
       "review": "Delicioso! Will definitely be back in the future!",
       "date": "2021-12-13",
@@ -504,15 +482,6 @@
       "anonymous": true,
       "rating": 2,
       "id": 10
-    },
-    {
-      "userId": 1,
-      "truckId": 2,
-      "review": "eh",
-      "date": "2021-12-09",
-      "anonymous": true,
-      "rating": 1,
-      "id": 11
     }
   ],
   "neighborhoods": [
@@ -1185,7 +1154,7 @@
       "neighborhoodId": 4,
       "date": "2021-12-25",
       "message": "Santa brunch at Elmington Park from 11am-2pm.",
-      "read": false,
+      "read": true,
       "id": 2
     },
     {
@@ -1198,24 +1167,6 @@
       "id": 3
     },
     {
-      "userId": 12,
-      "truckId": 13,
-      "neighborhoodId": 3,
-      "date": "2021-12-17",
-      "message": "3rd message to see about spacing",
-      "read": true,
-      "id": 4
-    },
-    {
-      "userId": 12,
-      "truckId": 13,
-      "neighborhoodId": 4,
-      "date": "2021-12-17",
-      "message": "4th message so see about spacing for second row",
-      "read": true,
-      "id": 5
-    },
-    {
       "userId": 6,
       "truckId": 3,
       "neighborhoodId": 5,
@@ -1223,6 +1174,15 @@
       "message": "Feel like some xmas shaved ice???",
       "read": false,
       "id": 6
+    },
+    {
+      "userId": 1,
+      "truckId": 13,
+      "neighborhoodId": 4,
+      "date": "2021-12-09",
+      "message": "A raucous party at the corner of 5th and main! Be there!",
+      "read": false,
+      "id": 7
     }
   ]
 }
