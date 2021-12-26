@@ -192,7 +192,7 @@
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/27540290_1736086619787443_8332390477082173782_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jZWNpEHri5wAX_ucmGh&_nc_ht=scontent-atl3-2.xx&oh=83cad04b5536060e5053f0bfa3ba6f10&oe=61D466EB",
       "hours": "11am-4pm",
       "dollars": 2,
-      "userRating": 3
+      "userRating": 0
     },
     {
       "id": 9,
@@ -217,6 +217,7 @@
       "userRating": 0
     },
     {
+      "id": 11,
       "name": "Gypsy Crepe Company",
       "description": "Sweet and savory crepes served in traditional Paris street-style cones",
       "websiteURL": "https://www.gypsycrepecompany.com/",
@@ -224,8 +225,7 @@
       "profileImgSrc": "http://static1.squarespace.com/static/5a6626231f318dbc77648fd0/t/5a662c8b71c10bfb2a4d2a07/1516645539162/GypsyCrepeCo-ColourHqFinal.jpg?format=1500w",
       "hours": "4pm-9pm",
       "dollars": 1,
-      "userRating": 0,
-      "id": 11
+      "userRating": 0
     },
     {
       "id": 12,
@@ -239,15 +239,14 @@
       "userRating": 5
     },
     {
+      "id": 13,
       "name": "Twisted Thai",
       "description": "Thai inspired street food with a twist!",
-      "wezbsiteURL": "https://twitter.com/twistedthai?lang=en",
       "instagramURL": "https://www.instagram.com/twistedthai/?hl=en",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/16266220_384553188591992_711093882303317474_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P1jkNVYcIN0AX_3DPqQ&_nc_ht=scontent-atl3-2.xx&oh=00_AT8Z0XkbEVmxAjyA8A3qLpvFrfvFjHvPcOnsUmW8hgv1Sg&oe=61E590AB",
       "hours": "11-2",
       "dollars": 2,
-      "userRating": 0,
-      "id": 13
+      "userRating": 0
     }
   ],
   "truckOwners": [
@@ -464,15 +463,6 @@
       "id": 8,
       "rating": 5,
       "anonymous": false
-    },
-    {
-      "userId": 1,
-      "truckId": 8,
-      "review": "it was ok, but of a wait though",
-      "date": "2021-12-15",
-      "anonymous": false,
-      "rating": 3,
-      "id": 9
     },
     {
       "userId": 1,
@@ -704,28 +694,16 @@
       "dayId": 1
     },
     {
-      "id": 30,
-      "truckId": 5,
-      "neighborhoodId": 4,
-      "dayId": 2
-    },
-    {
-      "id": 31,
       "truckId": 5,
       "neighborhoodId": 2,
-      "dayId": 3
-    },
-    {
-      "id": 32,
-      "truckId": 5,
-      "neighborhoodId": 1,
-      "dayId": 4
+      "dayId": 2,
+      "id": 30
     },
     {
       "truckId": 5,
-      "neighborhoodId": 1,
-      "dayId": 5,
-      "id": 33
+      "neighborhoodId": 3,
+      "dayId": 3,
+      "id": 31
     },
     {
       "id": 34,
@@ -734,10 +712,10 @@
       "dayId": 6
     },
     {
-      "id": 35,
       "truckId": 5,
-      "neighborhoodId": 2,
-      "dayId": 7
+      "neighborhoodId": 5,
+      "dayId": 7,
+      "id": 35
     },
     {
       "id": 36,
@@ -1011,19 +989,19 @@
     },
     {
       "truckId": 11,
-      "neighborhoodId": 2,
+      "neighborhoodId": 4,
       "dayId": 3,
       "id": 91
     },
     {
       "truckId": 11,
-      "neighborhoodId": 1,
+      "neighborhoodId": 3,
       "dayId": 7,
       "id": 92
     },
     {
       "truckId": 11,
-      "neighborhoodId": 2,
+      "neighborhoodId": 5,
       "dayId": 5,
       "id": 93
     },
@@ -1035,39 +1013,39 @@
     },
     {
       "truckId": 13,
-      "neighborhoodId": 5,
+      "neighborhoodId": 3,
       "dayId": 2,
       "id": 95
     },
     {
       "truckId": 13,
-      "neighborhoodId": 5,
+      "neighborhoodId": 3,
       "dayId": 3,
       "id": 96
     },
     {
       "truckId": 13,
-      "neighborhoodId": 5,
-      "dayId": 4,
-      "id": 97
-    },
-    {
-      "truckId": 13,
       "neighborhoodId": 4,
-      "dayId": 5,
-      "id": 98
+      "dayId": 7,
+      "id": 100
     },
     {
       "truckId": 13,
       "neighborhoodId": 1,
-      "dayId": 6,
-      "id": 99
+      "dayId": 5,
+      "id": 102
     },
     {
       "truckId": 13,
-      "neighborhoodId": 2,
-      "dayId": 7,
-      "id": 100
+      "neighborhoodId": 5,
+      "dayId": 4,
+      "id": 103
+    },
+    {
+      "truckId": 5,
+      "neighborhoodId": 5,
+      "dayId": 4,
+      "id": 104
     }
   ],
   "truckFoodTypes": [
@@ -1155,6 +1133,7 @@
       "date": "2021-12-25",
       "message": "Santa brunch at Elmington Park from 11am-2pm.",
       "read": true,
+      "includeContact": false,
       "id": 2
     },
     {
@@ -1164,6 +1143,7 @@
       "date": "2021-12-24",
       "message": "just for fun",
       "read": true,
+      "includeContact": false,
       "id": 3
     },
     {
@@ -1173,6 +1153,7 @@
       "date": "2021-12-25",
       "message": "Feel like some xmas shaved ice???",
       "read": false,
+      "includeContact": false,
       "id": 6
     },
     {
@@ -1182,7 +1163,38 @@
       "date": "2021-12-09",
       "message": "A raucous party at the corner of 5th and main! Be there!",
       "read": false,
+      "includeContact": false,
       "id": 7
+    },
+    {
+      "userId": 1,
+      "truckId": 13,
+      "neighborhoodId": 3,
+      "date": "2022-01-01",
+      "message": "Will absolutely require hangover food, 11:30am at the corner of main and 12th",
+      "read": false,
+      "includeContact": true,
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "truckId": 12,
+      "neighborhoodId": 2,
+      "date": "2021-12-15",
+      "message": "why",
+      "read": false,
+      "includeContact": true,
+      "id": 10
+    },
+    {
+      "userId": 12,
+      "truckId": 13,
+      "neighborhoodId": 4,
+      "date": "12/8/2021",
+      "message": "check out the date",
+      "read": false,
+      "includeContact": false,
+      "id": 11
     }
   ]
 }
