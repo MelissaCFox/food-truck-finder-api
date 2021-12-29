@@ -14,7 +14,7 @@
       "firstName": "Jo",
       "lastName": "Harvell",
       "email": "jo@harv.com",
-      "owner": true
+      "owner": false
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "firstName": "Fergus",
       "lastName": "Crowley",
       "email": "fergus@crowley.com",
-      "owner": true
+      "owner": false
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "firstName": "Chuck",
       "lastName": "Shurley",
       "email": "chuck@god.com",
-      "owner": true
+      "owner": false
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "firstName": "Grace",
       "lastName": "Fox",
       "email": "grace@fox.com",
-      "owner": true
+      "owner": false
     },
     {
       "id": 6,
@@ -54,7 +54,7 @@
       "firstName": "Cas",
       "lastName": "Tiel",
       "email": "cas@tiel.com",
-      "owner": true
+      "owner": false
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "firstName": "Sam",
       "lastName": "Wesson",
       "email": "sam@wesson.com",
-      "owner": true
+      "owner": false
     },
     {
       "id": 9,
@@ -85,7 +85,7 @@
       "firstName": "Mike",
       "lastName": "Fox",
       "email": "mike@fox.com",
-      "owner": true,
+      "owner": false,
       "id": 11
     },
     {
@@ -112,6 +112,8 @@
       "description": "Grilled cheese. Need we say more?",
       "websiteURL": "https://grilledcheeserie.com/",
       "instagramURL": "https://www.instagram.com/thegrilledcheeserie/",
+      "facebookURL": "https://www.facebook.com/GrilledCheeserieMeltShop/",
+      "twitterURL": "https://twitter.com/GrlldCheeserie?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/15894691_446926545696383_836555503444420918_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mvZNF9EKZXoAX_SsxOG&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=24fd052765c95c31f41a0fa9ad43ddb1&oe=61D1EDDC",
       "hours": "12pm-4pm",
       "dollars": 1,
@@ -123,6 +125,8 @@
       "description": "Vintage Mexican cuisine with a modern twist",
       "websiteURL": "https://yayosomg.com/",
       "instagramURL": "https://www.instagram.com/yayosomg/",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/216266_167892329930988_2860126_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4uIhewS0FNEAX_ax1q6&_nc_ht=scontent-atl3-2.xx&oh=92930e0702782ca377ef0f7798c69696&oe=61D5CF85",
       "hours": "11am-3pm",
       "dollars": 1,
@@ -134,6 +138,8 @@
       "description": "Gourmet Hawaiian shaved ice made with 100% cane sugar",
       "websiteURL": "https://www.bluemonkeyshavedice.com/",
       "instagramURL": "https://www.instagram.com/bluemonkeyice/",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/181569119_3933528183396908_8191068417583736295_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=iiIDeyiBfBYAX9hOSE0&_nc_ht=scontent-atl3-2.xx&oh=7331f6fd9ef06646187cd5445233a5f3&oe=61D4FA6C",
       "hours": "10am-4pm",
       "dollars": 1,
@@ -145,6 +151,8 @@
       "description": "Authentic Maine lobster - as seen on Shark Tank!",
       "websiteURL": "https://www.cousinsmainelobster.com/locations/nashville-tn/",
       "instagramURL": "https://www.instagram.com/cousinsmainelobster/",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/120038346_3416632551738335_1713002865758525185_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GHHQAeGGZHkAX_bRtxH&_nc_ht=scontent-atl3-2.xx&oh=695b5c2d06d0ce8078fa2e5d95757348&oe=61D2C30E",
       "hours": "4pm-7pm",
       "dollars": 2,
@@ -156,6 +164,8 @@
       "description": "Thai... with a twist!",
       "websiteURL": "https://degthai.com/",
       "instagramURL": "https://www.instagram.com/degthaistreetfood/",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/148088040_5640537025972226_6667369788664367500_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jDUef2dgQo0AX_kFLec&_nc_ht=scontent-atl3-2.xx&oh=069c541922afd6d70ad2df04fa4d0668&oe=61D3DDCD",
       "hours": "12pm-2pm",
       "dollars": 2,
@@ -167,6 +177,8 @@
       "description": "Korean street food featuring crowd-pleasing Korean fried chicken, poke, and ramen",
       "websiteURL": "https://www.facebook.com/funkseoultruck/",
       "instagramURL": "https://www.instagram.com/funkseoultruck/?hl=en",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/13988121_1127865500590047_875621548803343299_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=HMEaqITE8VgAX9TsxRq&_nc_ht=scontent-atl3-2.xx&oh=3da706c4e302abf94429f455de960657&oe=61D501BB",
       "hours": "1pm-3pm",
       "dollars": 2,
@@ -178,6 +190,8 @@
       "description": "A synergy of fresh ingredients and centuries old traditions. welcome to Nashville's authentic mobile pizzeria.",
       "websiteURL": "https://ilfornowoodfired.com/",
       "instagramURL": "https://www.instagram.com/ilfornonashville/?hl=en",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/19488601_428524294201645_5413051548439124358_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=_BiPdEMTdD8AX-V5A33&_nc_ht=scontent-atl3-2.xx&oh=2dc06f581503d4f12f235da0add60705&oe=61D3FE2E",
       "hours": "4pm-7pm",
       "dollars": 2,
@@ -189,6 +203,8 @@
       "description": "Why did this description disappear?",
       "websiteURL": "https://www.smokeetal.com/",
       "instagramURL": "https://www.instagram.com/SmokeEtAlFoodTruck/",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/27540290_1736086619787443_8332390477082173782_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jZWNpEHri5wAX_ucmGh&_nc_ht=scontent-atl3-2.xx&oh=83cad04b5536060e5053f0bfa3ba6f10&oe=61D466EB",
       "hours": "11am-4pm",
       "dollars": 2,
@@ -200,6 +216,8 @@
       "description": "We sell one thing and one thing only.... Ravioli",
       "websiteURL": "https://www.google.com/search?q=ravioli&sxsrf=AOaemvKb8dl7pHVFT0797vvufXrRMbiUWw:1639096644947&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiD95fq_tf0AhWQct8KHdlJAQgQ_AUoAXoECAIQAw&biw=1920&bih=937&dpr=1",
       "instagramURL": "https://www.instagram.com/raviolo_factory",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGURuL5oVfck9fQPkil0RhPukPoLYYqfcHw&usqp=CAU",
       "hours": "10am-4pm",
       "dollars": 2,
@@ -211,6 +229,8 @@
       "description": "Cheese... there's just something about it",
       "websiteURL": "https://www.imdb.com/title/tt0129387/",
       "instagramURL": "https://www.instagram.com/explore/search/keyword/?hl=en&q=mozzarella",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://cdn.shopify.com/s/files/1/2836/2982/products/mozzarella-cheese_grande.jpg?v=1529434174",
       "hours": "1-1:20pm",
       "dollars": 3,
@@ -222,6 +242,8 @@
       "description": "Sweet and savory crepes served in traditional Paris street-style cones",
       "websiteURL": "https://www.gypsycrepecompany.com/",
       "instagramURL": "https://www.instagram.com/gypsycrepeco/?hl=en",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "http://static1.squarespace.com/static/5a6626231f318dbc77648fd0/t/5a662c8b71c10bfb2a4d2a07/1516645539162/GypsyCrepeCo-ColourHqFinal.jpg?format=1500w",
       "hours": "4pm-9pm",
       "dollars": 1,
@@ -233,6 +255,8 @@
       "description": "A donut kitchen on wheels.",
       "websiteURL": " http://www.drivingyoudonuts.com/",
       "instagramURL": "https://www.instagram.com/drivingyoudonuts/?hl=en",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/162670894_270943864521688_7233244360258708695_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ltOQz7fQ4n8AX9lmap4&_nc_ht=scontent-atl3-2.xx&oh=8b81fb99126763ddec4e238533c431af&oe=61DE5758",
       "hours": "8:30am-11am",
       "dollars": 2,
@@ -243,10 +267,441 @@
       "name": "Twisted Thai",
       "description": "Thai inspired street food with a twist!",
       "instagramURL": "https://www.instagram.com/twistedthai/?hl=en",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/16266220_384553188591992_711093882303317474_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P1jkNVYcIN0AX_3DPqQ&_nc_ht=scontent-atl3-2.xx&oh=00_AT8Z0XkbEVmxAjyA8A3qLpvFrfvFjHvPcOnsUmW8hgv1Sg&oe=61E590AB",
       "hours": "11-2",
       "dollars": 2,
       "userRating": 0
+    },
+    {
+      "name": "Franklin's Fruit Tea",
+      "description": "Paradise in Every Sip!",
+      "websiteURL": "https://www.franklinsfruittea.com/",
+      "instagramURL": "https://www.instagram.com/franklinsfruittea/",
+      "facebookURL": "https://www.facebook.com/franklinsfruittea",
+      "twitterURL": "https://twitter.com/FranklinFruit",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/54436187_2191506147833411_8439322578694176768_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=UyhO3Bez1hQAX8XljJE&_nc_ht=scontent-atl3-2.xx&oh=00_AT92vpuxAcZMEcYH3OcACIUkYlPh6SjiwlNb6Evk_MkOEw&oe=61F123F5",
+      "hours": "11-2",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 14
+    },
+    {
+      "name": "Fatty Matty's Pizza",
+      "description": "New York Style pizza with handmade dough and homemade sauce.",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/Fattymattysmobilepizza/",
+      "facebookURL": "https://www.facebook.com/FattyMattysPizza",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/20728993_1854381637916172_3981556584205738908_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=19026a&_nc_ohc=Hx0w8bPv-jMAX-bnkNP&_nc_oc=AQl8e0JEbmV21OHiwtlsh92ZExpzzaYfCKbhiBYzLvWTFQjpeGRAjsdhshXhpxbEFykF6uVW62RL5XvfPafCcrBs&_nc_ht=scontent-atl3-2.xx&oh=00_AT8o2KLMbc8_g95U-uwOHwoF1XGLzyC85LM4ItrEzo-nPw&oe=61EF22DD",
+      "hours": "10am-4pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 15
+    },
+    {
+      "name": "Chivanada",
+      "description": "Colombian empanadas served with the sounds of the hottest Salsa!",
+      "websiteURL": "https://www.chivanada.com/",
+      "instagramURL": "https://www.instagram.com/chivanada/",
+      "facebookURL": "https://www.facebook.com/chivanada",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/40161811_1054055911445302_9093214311374913536_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=As95yo71s1AAX-R4Omi&_nc_oc=AQkVEQtRceXAecjX5vhq3m0vzPnNDRedhJk5kgLJZQ2BMgsX8hJIoR_UdL1XNZkhvgLUccmMdVDnMdqcKur8wYGm&_nc_ht=scontent-atl3-2.xx&oh=00_AT9g1E7TT0Obd41oxBomGryijX2DPGnY2_9IprmYNkiH6g&oe=61F2BAD2",
+      "hours": "2pm-7pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 16
+    },
+    {
+      "name": "The Rolling Recipe",
+      "description": "Nashville-inspired Southern-fusion sandwiches",
+      "websiteURL": "https://therollingrecipe.com/",
+      "instagramURL": "https://www.instagram.com/therollingrecipe_/",
+      "facebookURL": "https://www.facebook.com/therollingrecipellc/",
+      "twitterURL": "https://twitter.com/recipellc?lang=en",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/57384340_420302665369694_126317560860770304_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wPj0tujfMLgAX-iSoI2&_nc_ht=scontent-atl3-2.xx&oh=00_AT8y33gldwwdfENIcRNVBXEnUNnjPt9PEj9XxJhkCICN8w&oe=61F1A8BC",
+      "hours": "10am-4pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 17
+    },
+    {
+      "name": "Jose's Kitchen",
+      "description": "Fusion of Chinese and Mexican cuisine",
+      "websiteURL": "https://joseskitchentn.com/",
+      "instagramURL": "",
+      "facebookURL": "https://www.facebook.com/people/Joses-Kitchen/100063739203337/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/241683514_238234684977837_5293772917947606788_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ID_odDKt3TAAX-4-hos&_nc_ht=scontent-atl3-2.xx&oh=00_AT-MWFnmobcqn60D2rvhjvCzPJo19sjh7i5XiN7KvZBs9A&oe=61D050AC",
+      "hours": "10am-4pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 18
+    },
+    {
+      "name": "Zander's",
+      "description": "Hot, made from scratch, wood-fired pizzas, plus ice cream!",
+      "websiteURL": "http://www.zanderspizza.com/",
+      "instagramURL": "https://www.instagram.com/zanderspizza/?hl=en",
+      "facebookURL": "https://www.facebook.com/zandersmobile/",
+      "twitterURL": "https://twitter.com/zanderspizza",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/52755283_1092391717600366_1253661019096481792_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rxD6cMfFWLoAX-o5Kqp&_nc_oc=AQmTrs9g4KdlKUz29kOHgFdGq9aEdwl3jeSTk7o96ny92HLSQ0JdMjqg8WgBGIuk5icwa8KeCYW0Mg6VYLBy9sxO&_nc_ht=scontent-atl3-2.xx&oh=00_AT-werIvv9-R0q_RLMyV7lR6rPwMDv0_1MQJk-W4YT-Njw&oe=61F1BE29",
+      "hours": "10am-4pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 19
+    },
+    {
+      "name": "Nash Dogs",
+      "description": "Serving 100% Angus beef hot dogs - premium toppings and veggies dogs always available!",
+      "websiteURL": "https://nashdogs.com/",
+      "instagramURL": "https://www.instagram.com/nashdogs/?hl=en",
+      "facebookURL": "https://www.facebook.com/Nashdogs/",
+      "twitterURL": "https://twitter.com/nashdogstn?lang=en",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/240659834_238334191541293_1715511401969520316_n.jpg?_nc_cat=111&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=fJDkNbqg1WUAX8xaG2v&_nc_ht=scontent-atl3-2.xx&oh=00_AT_BRfPZP-ypj69Py85z5kNCqEKp2oM_BrnwYEo0gUXefg&oe=61D02A6C",
+      "hours": "11-2",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 20
+    },
+    {
+      "name": "Underground Chicken",
+      "description": "Fried chicken tenders and fried okra, coupled with shoestring fries, fried pickles, and Tennessee street corn - you'll walk away extremely happy and extremely full!",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/underground.chicken/?hl=en",
+      "facebookURL": "https://www.facebook.com/UndergroundChicken/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/100507212_104686204595557_849830391287119872_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=kDA-5vOjpRsAX9B_DJx&_nc_ht=scontent-atl3-2.xx&oh=00_AT9oUDiBfndHkVJxe8XWArZLeGxefTJCSg41iJ2xwwtl1w&oe=61F0B765",
+      "hours": "10am-4pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 21
+    },
+    {
+      "name": "Joe's Rollin' Smoke BBQ",
+      "description": "Great low and slow Texas style barbeque with Joe's special recipes",
+      "websiteURL": "https://www.joesrollinsmokebbq.com/",
+      "instagramURL": "https://www.instagram.com/joesrollinsmokebbq/?hl=en",
+      "facebookURL": "https://www.facebook.com/joesrollinsmoke/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/118702819_107528451082136_4706062883502300599_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=OsDeBofp-18AX_Jx5e1&_nc_ht=scontent-atl3-2.xx&oh=00_AT_ooo8nP14ny0HKnHfdGuwKgXLRYE3hTZ9g6xsaYtI4Zg&oe=61EFE4DC",
+      "hours": "4pm-8:30pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 22
+    },
+    {
+      "name": "Flour & Forge",
+      "description": "Wood fired pizza",
+      "websiteURL": "https://flourandforge.com/",
+      "instagramURL": "https://www.instagram.com/flourandforge/?hl=en",
+      "facebookURL": "https://www.facebook.com/FlourAndForge",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/240672759_142746734708963_6068416341527669792_n.png?_nc_cat=106&_nc_rgb565=1&ccb=1-5&_nc_sid=e3f864&_nc_ohc=13eQ62jSBk4AX8ihzRw&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=00_AT8OZ0vt3kGC6VdQqNqJy84TjDcfrTlQwTfDV2pon5tykw&oe=61D176CB",
+      "hours": "4pm-7pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 23
+    },
+    {
+      "name": "Single Tree BBQ",
+      "description": "Wood. Fire. BBQ. We keep it simple to create amazing brisket, pork, and other specialty items.",
+      "websiteURL": "https://www.singletreebbq.com/",
+      "instagramURL": "https://www.instagram.com/singletreebbq/?hl=en",
+      "facebookURL": "",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/127237460_112580614004721_2027925246035917640_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_ohc=z7OedI-rM2sAX_hAOXe&_nc_ht=scontent-atl3-2.xx&oh=00_AT8WYWt5B-22YIcQdWxoejFyfr4IS_GRGdOm7K4_81Dwpw&oe=61F21B9F",
+      "hours": "1:30pm-6pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 24
+    },
+    {
+      "name": "Mrs. Grissom's Panini Grill",
+      "description": "Serving pimento cheese sandwiches, chicken salad, buffalo chicken nachos and more!",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/mrsgrissomspaninigrill/?hl=en",
+      "facebookURL": "https://www.facebook.com/mrsgrissomspaninigrill/",
+      "twitterURL": "https://twitter.com/mrsgpaninigrill/status/1444286839981068292",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/53417265_268755084037581_3752514202120486912_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=t_M6fmqDwKQAX-QOKH_&_nc_ht=scontent-atl3-2.xx&oh=00_AT_vl0mI6RLZCgbJd0YXN0dWMGL7vk_XCklpj4_q4ES5fg&oe=61F20690",
+      "hours": "5pm-11:30pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 25
+    },
+    {
+      "name": "Ellie Mae's Cafe",
+      "description": "Specializing in fried catfish fillets, homemade hushpuppy's and more",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/ellie.maescafe/?hl=en",
+      "facebookURL": "https://www.facebook.com/elliemaecafe/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/123943391_114593917124491_7397132991498336429_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=hkEG1b-QaUoAX8rvmBh&_nc_ht=scontent-atl3-2.xx&oh=00_AT-DfqYau3fvrdm0zI5aPwfbrA7lb5jf6aZASx72KECZsw&oe=61F1946A",
+      "hours": "7:30am-2pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 26
+    },
+    {
+      "name": "Vee's Chick N Cones",
+      "description": "We have created an awesome twist on Chicken and Waffles! We serve crispy chicken, with many sauce options, served in a warm waffle cone.",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/veeschickncones/?hl=en",
+      "facebookURL": "https://www.facebook.com/Vees-Chick-N-Cones-113539490501094/",
+      "twitterURL": "https://twitter.com/VeeCones?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/120007549_113540147167695_3611087817978770817_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=bxZKsptDUcwAX8a7y74&_nc_ht=scontent-atl3-2.xx&oh=00_AT8iXgT7U5Xyxnlnpb38Zn5vk7plIowndQnovAEh3M0JJQ&oe=61F18FC9",
+      "hours": "10am-4pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 27
+    },
+    {
+      "name": "The TN Cobbler Co.",
+      "description": "Southern inspired sweet truck",
+      "websiteURL": "https://www.tncobblerco.com/",
+      "instagramURL": "https://www.instagram.com/tncobblerco/?hl=en",
+      "facebookURL": "https://www.facebook.com/TNCobblerCo/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/13416831_1339160166099701_8232557228685942573_o.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=t3gNeRdioAEAX8iTbqA&_nc_ht=scontent-atl3-2.xx&oh=00_AT8bvoPuPFL47xMZPg56RHcs9o0S-i95S5gIAWXLAvx47A&oe=61F15DCB",
+      "hours": "4pm-9pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 28
+    },
+    {
+      "name": "Roscoes Smoked BBQ",
+      "description": "Hickory smoked goodness (fresh meats!), freshly baked buns, freshly made sides",
+      "websiteURL": "http://www.roscoessmokedbbq.com/",
+      "instagramURL": "https://www.instagram.com/roscoessmokedbbq/?hl=en",
+      "facebookURL": "https://www.facebook.com/roscoessmokedbbq/",
+      "twitterURL": "https://twitter.com/roscoessmoked",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/34305382_977577522417256_4864952272708173824_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=1oUejtz4460AX8fXCSr&_nc_ht=scontent-atl3-2.xx&oh=00_AT-DPpV32yQIVd7shOHL8DNfnTCLl1shdYUEq7cCWEgTAw&oe=61F2E9DF",
+      "hours": "12pm-5pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 29
+    },
+    {
+      "name": "Adams Barbecue",
+      "description": "Specializing in brisket, ribs, pulled pork, and smoked wings, with signatures including candy bacon, bacon-wrapped potatoes, and the Grover Sandwich",
+      "websiteURL": "https://www.adamsbarbecue.com/",
+      "instagramURL": "https://www.instagram.com/adamsbarbecuetn/?hl=en",
+      "facebookURL": "https://www.facebook.com/eadamsbarbecue/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/79162030_2408386006079738_7571688010366844928_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=NmH4hB52ydAAX9ZbW6Z&_nc_ht=scontent-atl3-2.xx&oh=00_AT_zH03LwRImXpmRj4iJgolkpj3-BlVDN3Ts2vrNBV0VYA&oe=61F2371E",
+      "hours": "11am-2pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 30
+    },
+    {
+      "name": "Firelime Offshore Grill",
+      "description": "Miami style tropical cuisine",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/firelime_offshore_grill/?hl=en",
+      "facebookURL": "https://www.facebook.com/firelimegrill/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/242939043_332877261921989_2861026027073605912_n.jpg?_nc_cat=105&_nc_rgb565=1&ccb=1-5&_nc_sid=174925&_nc_ohc=Y9NOx22hs4wAX98qk2E&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=00_AT8QYuOkQWS10SVcC_tNU0KuW-soUPJySxMY9PRwfQ0RtA&oe=61CF93DD",
+      "hours": "11am-2pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 31
+    },
+    {
+      "name": "Snack Barr",
+      "description": "Fresh food from generational family recipes",
+      "websiteURL": "",
+      "instagramURL": "",
+      "facebookURL": "https://m.facebook.com/TheSnackBarrLLC/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/214346570_103857851967507_1770000758714050393_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=f0f1kp6WG-YAX9bgOLO&_nc_ht=scontent-atl3-2.xx&oh=00_AT8MZG0LzPFuqYkTojTAC2gxx7DTa1H4m4-8mcezNOMErg&oe=61CFFF30",
+      "hours": "5pm-11pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 32
+    },
+    {
+      "name": "Pop & Dogs",
+      "description": "All beef hot dogs. We also have Polish sausages, Cajun sausages, and Beer Brats.",
+      "websiteURL": "http://www.popanddogs.com/",
+      "instagramURL": "",
+      "facebookURL": "https://www.facebook.com/Popanddogs",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/144276705_795096494769715_3214734127294147048_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-m0RNUj1sJgAX8sYA1w&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=00_AT8peS1oN6ZQkJJn5MRJIp2wGuG3A1Nj-cvW9Cfnd4q4cA&oe=61EFC8C7",
+      "hours": "11am-2pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 33
+    },
+    {
+      "name": "Buns On The Run",
+      "description": "All American cuisine from Angus Beef Burgers to delicious Vegetarian Burgers",
+      "websiteURL": "https://www.thebunsontherun.com/",
+      "instagramURL": "https://www.instagram.com/615bunsontherun/",
+      "facebookURL": "https://www.facebook.com/615BunsOnTheRunTN",
+      "twitterURL": "https://twitter.com/615bunsontherun",
+      "profileImgSrc": "https://pbs.twimg.com/profile_images/378800000572812379/6be55cec3dede0a914e254a91be2367d_400x400.jpeg",
+      "hours": "7am-12pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 34
+    },
+    {
+      "name": "Chang Kham Asian Fusion",
+      "description": "Sushi, curry, and friend chicken wings",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/changkhamasianfusion/?hl=en",
+      "facebookURL": "https://www.facebook.com/Chang-Kham-Asian-Fusion-Food-Truck-103258751964115/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/232360377_129877435968913_4511622158643318852_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9BL2RfRBXoQAX8zWY6V&_nc_ht=scontent-atl3-2.xx&oh=00_AT_POGylhzQP4-uA2cR16keIcettm8Cdt8K4GCkD-WnN3w&oe=61D18F29",
+      "hours": "4pm-7pm",
+      "dollars": 3,
+      "userRating": 0,
+      "id": 35
+    },
+    {
+      "name": "Good Bites",
+      "description": "A uniquely comforting food truck that offers a different spin on dishes from around the world.",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/goodbites.gc/",
+      "facebookURL": "https://www.facebook.com/goodbites.gc/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/196203416_107091428284402_788283784118587034_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=qvMKv-8NFokAX-mXEyB&_nc_oc=AQlKH2etJiQr5NFW1B9666WjC1bhRrjhwP_vsY9VVpkb_ww_qphNF-5vHJ2LsAvapBYpWo_lojWryQXGr1cmyGE1&_nc_ht=scontent-atl3-2.xx&oh=00_AT_kh17luuxjEB6padDJ9fKxgEU-UAP1BHzbD86d642R0A&oe=61F086DA",
+      "hours": "11am-1pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 36
+    },
+    {
+      "name": "Hattie Jane's Creamery",
+      "description": "Small-batch, custard-based ice cream",
+      "websiteURL": "https://hattiejanescreamery.com/",
+      "instagramURL": "https://www.instagram.com/hattiejanescreamery/?hl=en",
+      "facebookURL": "https://www.facebook.com/HattieJanesCreamery/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/70752499_2363135173954254_1448258252042141696_n.png?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=UTiKUSfCIS0AX9CicSb&_nc_ht=scontent-atl3-2.xx&oh=00_AT_-koa2hJWHdcwDEIYYbYeKL_VwskYrusDTchYToJmtZA&oe=61F2B374",
+      "hours": "12pm-5pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 37
+    },
+    {
+      "name": "Haute Wheels",
+      "description": "Gourmet sandwich bus with an insane amount of options",
+      "websiteURL": "",
+      "instagramURL": "",
+      "facebookURL": "https://www.facebook.com/HauteWheelsLLC/",
+      "twitterURL": "https://mobile.twitter.com/hautewheelsco",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/161770884_153307383326221_2299764699750270103_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=I7aAOgxBHXEAX96NvZg&_nc_ht=scontent-atl3-2.xx&oh=00_AT9JB1Nv3NQcUdekWtsg7rrnJUy30f817JWeWbEuJXgF_w&oe=61EF6EA1",
+      "hours": "10am-2:30pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 38
+    },
+    {
+      "name": "I Lovitt - Cheesecakes",
+      "description": "Baking the world a better place. Specializing in custom, made-with-love cheesecakes.",
+      "websiteURL": "https://ilovittcheesecakes.com/",
+      "instagramURL": "https://www.instagram.com/ilovittcheesecakes/?hl=en",
+      "facebookURL": "https://www.facebook.com/ilovittcheesecakes/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/97992575_2283504245291663_6949278581239316480_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=whpau2T3Zk0AX_r7-Yk&_nc_ht=scontent-atl3-2.xx&oh=00_AT91i4SufTLUK56egtAUUlO-myBCBxlV6l3kxVTgnUVqNA&oe=61F15100",
+      "hours": "11am-4pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 39
+    },
+    {
+      "name": "Mojo Cookie Dough",
+      "description": "The ultimate cookie and ice cream experience! Made to order signatures or build your own masterpiece. Awesome soda floats, big scoops, popular flavors, and toppings.",
+      "websiteURL": "http://www.mojocookiedough.com/",
+      "instagramURL": "https://www.instagram.com/mojocookiedough/?hl=en",
+      "facebookURL": "https://www.facebook.com/mojocookiedoughfoodtruckandcatering/",
+      "twitterURL": "https://twitter.com/mojocookiedough",
+      "profileImgSrc": "https://pbs.twimg.com/media/Cm369kVWYAAvZHP?format=jpg&name=large",
+      "hours": "11am-6pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 40
+    },
+    {
+      "name": "Pie Town Tacos",
+      "description": "Simple, delicious street tacos and sides.",
+      "websiteURL": "https://pietowntacos.com/",
+      "instagramURL": "https://www.facebook.com/pietowntacos",
+      "facebookURL": "https://www.instagram.com/pietowntacos/",
+      "twitterURL": "https://twitter.com/pietowntacos",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/105991463_159686155599534_2069819787073857078_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Mwnr3AzLHx0AX_htZP2&_nc_ht=scontent-atl3-2.xx&oh=00_AT-A9LFtxaZfDTBdEywj8tZHV_8u4GLESZ2My9SuaxiMkA&oe=61EFF67F",
+      "hours": "10am-3pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 41
+    },
+    {
+      "name": "Peach Cobbler Factory",
+      "description": "Come to enjoy delicious cobbler, ice cream, cinnamon rolls, banana pudding desserts and most importantly... memories.",
+      "websiteURL": "https://www.peachcobblerfactory.com/",
+      "instagramURL": "https://www.instagram.com/peachcobblerfactory/",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/CobblerFactory",
+      "profileImgSrc": "https://pbs.twimg.com/profile_images/849746065075060736/Sd6rJ1GV_400x400.jpg",
+      "hours": "10am-4pm",
+      "dollars": 3,
+      "userRating": 0,
+      "id": 42
+    },
+    {
+      "name": "Tennessee Tatercakes",
+      "description": "Hand-pattied, panko-breaded, fried mashed potato cakes that are topped with slow smoked meats, cheeses, veggies, and various sauces. A fresh take on a southern staple!",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/tennesseetatercakes/",
+      "facebookURL": "https://www.facebook.com/tennesseetatercakes",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/60206395_2139314342805052_5527845956193615872_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=EtvMUpD-uIgAX-_4jhK&_nc_ht=scontent-atl3-2.xx&oh=00_AT_BmCVuobcPCz3FXzT9VtkqZfOF-taxcWGExcq1ZbeIzQ&oe=61F0DC40",
+      "hours": "11am-2pm",
+      "dollars": 2,
+      "userRating": 0,
+      "id": 43
+    },
+    {
+      "name": "The Love Bus",
+      "description": "We fry, we smoke, we soul roll! We are southern fusion!",
+      "websiteURL": "http://www.lovebusnashville.com/",
+      "instagramURL": "https://www.instagram.com/lovebusfoodtruck/?hl=en",
+      "facebookURL": "https://www.facebook.com/lovebusfoodtruck",
+      "twitterURL": "https://twitter.com/lovebusfoodtruc",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/10636734_1495397960788078_2815593679999649139_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=nzYS-pFec4IAX--TLBI&_nc_ht=scontent-atl3-2.xx&oh=00_AT_Q7BPjkceP0_2cy6ZzVRS16heUBRipOkcsrRPcyS8wqQ&oe=61F2D5CA",
+      "hours": "11am-1pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 44
+    },
+    {
+      "name": "Whisk and the Whimsy",
+      "description": "Specialty cupcakes and cookies for all events.",
+      "websiteURL": "https://www.whiskandthewhimsy.com/",
+      "instagramURL": "https://www.instagram.com/whiskandwhimsycookies/?hl=en",
+      "facebookURL": "https://www.facebook.com/whiskandthewhimsy/",
+      "twitterURL": "",
+      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/156837848_3805833716171055_7943071676693865582_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=l3sKxf4NqOEAX_Im1zg&_nc_ht=scontent-atl3-2.xx&oh=00_AT8wkDH2jNDQrrfLfALg042jE1rWu87X55MUwMlRgKDeTw&oe=61F0AF92",
+      "hours": "2pm-4pm",
+      "dollars": 3,
+      "userRating": 0,
+      "id": 45
+    },
+    {
+      "name": "Wawa Expresso",
+      "description": "Lattes, cappuccinos, frozen coffee, iced coffee, coffee syrups, chai tea latte, iced tea, and hot tea. Out Coffee is 100% from Puerto Rico.",
+      "websiteURL": "",
+      "instagramURL": "https://www.instagram.com/wawaexpresso/?hl=en",
+      "facebookURL": "https://www.facebook.com/wawaexpresso/",
+      "twitterURL": "https://twitter.com/ExpressoWawa",
+      "profileImgSrc": "https://pbs.twimg.com/profile_images/1255157834679017472/3SJL2whA_400x400.jpg",
+      "hours": "9:am-11:30am",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 46
     }
   ],
   "truckOwners": [
@@ -257,22 +712,22 @@
     },
     {
       "id": 2,
-      "userId": 2,
+      "userId": 6,
       "truckId": 2
     },
     {
       "id": 3,
-      "userId": 3,
+      "userId": 6,
       "truckId": 3
     },
     {
       "id": 4,
-      "userId": 4,
+      "userId": 6,
       "truckId": 4
     },
     {
       "id": 5,
-      "userId": 5,
+      "userId": 6,
       "truckId": 5
     },
     {
@@ -282,12 +737,12 @@
     },
     {
       "id": 7,
-      "userId": 7,
+      "userId": 6,
       "truckId": 7
     },
     {
       "id": 8,
-      "userId": 8,
+      "userId": 6,
       "truckId": 8
     },
     {
@@ -296,17 +751,17 @@
       "id": 9
     },
     {
-      "userId": 11,
+      "userId": 6,
       "truckId": 10,
       "id": 10
     },
     {
-      "userId": 5,
+      "userId": 6,
       "truckId": 11,
       "id": 11
     },
     {
-      "userId": 2,
+      "userId": 6,
       "truckId": 12,
       "id": 12
     },
@@ -314,6 +769,171 @@
       "userId": 12,
       "truckId": 13,
       "id": 13
+    },
+    {
+      "userId": 6,
+      "truckId": 14,
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "truckId": 15,
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "truckId": 16,
+      "id": 16
+    },
+    {
+      "userId": 6,
+      "truckId": 17,
+      "id": 17
+    },
+    {
+      "userId": 6,
+      "truckId": 18,
+      "id": 18
+    },
+    {
+      "userId": 6,
+      "truckId": 19,
+      "id": 19
+    },
+    {
+      "userId": 6,
+      "truckId": 20,
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "truckId": 21,
+      "id": 21
+    },
+    {
+      "userId": 6,
+      "truckId": 22,
+      "id": 22
+    },
+    {
+      "userId": 6,
+      "truckId": 23,
+      "id": 23
+    },
+    {
+      "userId": 6,
+      "truckId": 24,
+      "id": 24
+    },
+    {
+      "userId": 6,
+      "truckId": 25,
+      "id": 25
+    },
+    {
+      "userId": 6,
+      "truckId": 26,
+      "id": 26
+    },
+    {
+      "userId": 6,
+      "truckId": 27,
+      "id": 27
+    },
+    {
+      "userId": 6,
+      "truckId": 28,
+      "id": 28
+    },
+    {
+      "userId": 6,
+      "truckId": 29,
+      "id": 29
+    },
+    {
+      "userId": 6,
+      "truckId": 30,
+      "id": 30
+    },
+    {
+      "userId": 6,
+      "truckId": 31,
+      "id": 31
+    },
+    {
+      "userId": 6,
+      "truckId": 32,
+      "id": 32
+    },
+    {
+      "userId": 6,
+      "truckId": 33,
+      "id": 33
+    },
+    {
+      "userId": 6,
+      "truckId": 34,
+      "id": 34
+    },
+    {
+      "userId": 6,
+      "truckId": 35,
+      "id": 35
+    },
+    {
+      "userId": 6,
+      "truckId": 36,
+      "id": 36
+    },
+    {
+      "userId": 6,
+      "truckId": 37,
+      "id": 37
+    },
+    {
+      "userId": 6,
+      "truckId": 38,
+      "id": 38
+    },
+    {
+      "userId": 6,
+      "truckId": 39,
+      "id": 39
+    },
+    {
+      "userId": 6,
+      "truckId": 40,
+      "id": 40
+    },
+    {
+      "userId": 6,
+      "truckId": 41,
+      "id": 41
+    },
+    {
+      "userId": 6,
+      "truckId": 42,
+      "id": 42
+    },
+    {
+      "userId": 6,
+      "truckId": 43,
+      "id": 43
+    },
+    {
+      "userId": 6,
+      "truckId": 44,
+      "id": 44
+    },
+    {
+      "userId": 6,
+      "truckId": 45,
+      "id": 45
+    },
+    {
+      "userId": 6,
+      "truckId": 46,
+      "id": 46
     }
   ],
   "foodTypes": [
@@ -344,14 +964,45 @@
     {
       "type": "Thai",
       "id": 7
+    },
+    {
+      "type": "Beverage",
+      "id": 8
+    },
+    {
+      "type": "Latin American",
+      "id": 9
+    },
+    {
+      "type": "Southern",
+      "id": 10
+    },
+    {
+      "type": "Comfort",
+      "id": 11
+    },
+    {
+      "type": "Pizza",
+      "id": 12
+    },
+    {
+      "type": "Barbeque",
+      "id": 13
+    },
+    {
+      "type": "Sandwiches",
+      "id": 14
+    },
+    {
+      "type": "Soup",
+      "id": 15
+    },
+    {
+      "type": "Vegetarian",
+      "id": 16
     }
   ],
   "userTruckFavorites": [
-    {
-      "userId": 6,
-      "truckId": 3,
-      "id": 25
-    },
     {
       "userId": 11,
       "truckId": 4,
@@ -361,11 +1012,6 @@
       "userId": 1,
       "truckId": 11,
       "id": 31
-    },
-    {
-      "userId": 6,
-      "truckId": 4,
-      "id": 32
     },
     {
       "userId": 1,
@@ -393,11 +1039,6 @@
       "id": 40
     },
     {
-      "userId": 13,
-      "truckId": 12,
-      "id": 41
-    },
-    {
       "userId": 12,
       "truckId": 1,
       "id": 43
@@ -408,14 +1049,19 @@
       "id": 44
     },
     {
-      "userId": 12,
-      "truckId": 8,
-      "id": 45
-    },
-    {
-      "userId": 1,
+      "userId": 6,
       "truckId": 12,
       "id": 46
+    },
+    {
+      "userId": 6,
+      "truckId": 4,
+      "id": 47
+    },
+    {
+      "userId": 6,
+      "truckId": 20,
+      "id": 48
     }
   ],
   "userTruckReviews": [
@@ -477,9 +1123,9 @@
   "neighborhoods": [
     {
       "id": 1,
-      "name": "Hillsboro Village",
-      "description": "Tree-lined streets of Wedgewood and 21st Ave, adjacent to the campuses of both Vanderbilt and Belmont Universities.",
-      "profileImgSrc": "https://i.etsystatic.com/6415380/r/il/318c77/664411097/il_570xN.664411097_jr18.jpg"
+      "name": "12 South",
+      "description": "Extremely pedestrian-friendly, the main strip of this neighborhood starts around 12th and Kirkwood Ave, near Sevier Park.",
+      "profileImgSrc": "https://www.visitmusiccity.com/sites/www/files/styles/medium_portrait_3x4/public/2019-03/IBelieveinNashville.jpg?h=82f92a78&itok=8hHqR4Am"
     },
     {
       "id": 2,
@@ -489,21 +1135,57 @@
     },
     {
       "id": 3,
+      "name": "Berry Hill",
+      "description": "Just south of the city, Berry Hill is a flourishing neighborhood best known for its wide-variety of locally-owned businesses",
+      "profileImgSrc": "https://www.berryhilltn.org/ImageRepository/Document?documentID=204"
+    },
+    {
+      "id": 4,
+      "name": "Downtown",
+      "description": "The energetic hub of Nashville's country music scene, centered along Broadway.",
+      "profileImgSrc": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/listicle-broadway.png"
+    },
+    {
+      "id": 5,
       "name": "Germantown",
       "description": "Trendy nieghborhood directly north of downtown Nasvhille.",
       "profileImgSrc": "https://images.squarespace-cdn.com/content/v1/5c115fec9d5abbba78a23c93/1585605193768-DITS62RJ20PGD0A4O7V9/Germantown+map+02-01.jpg?format=1000w"
     },
     {
-      "id": 4,
+      "id": 6,
+      "name": "Green Hills",
+      "description": "Located south of downtown and in close proximity to Vanderbilt, Belmont, and Lipscomb, directly south across I-440 from Hillsboro Village",
+      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/09/Green-Hills-Nashville-2021_-26-1-scaled.jpg"
+    },
+    {
+      "id": 7,
       "name": "The Gulch",
       "description": "South southwest of downtown, along 11th and 12th Ave, the Gulch is also home to the Station Inn and City Hall music venues.",
       "profileImgSrc": "https://boomtown-production-consumer-backup.s3.amazonaws.com/2603/files/2016/11/THE-GULCH.png"
     },
     {
-      "id": 5,
-      "name": "12 South",
-      "description": "Extremely pedestrian-friendly, the main strip of this neighborhood starts around 12th and Kirkwood Ave, near Sevier Park.",
-      "profileImgSrc": "https://www.visitmusiccity.com/sites/www/files/styles/medium_portrait_3x4/public/2019-03/IBelieveinNashville.jpg?h=82f92a78&itok=8hHqR4Am"
+      "id": 8,
+      "name": "Hillsboro Village",
+      "description": "Tree-lined streets of Wedgewood and 21st Ave, adjacent to the campuses of both Vanderbilt and Belmont Universities.",
+      "profileImgSrc": "https://i.etsystatic.com/6415380/r/il/318c77/664411097/il_570xN.664411097_jr18.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Nations",
+      "description": "One of the oldest neighborhoods in Nashville, currently experiencing a resurgence of growth",
+      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2018/09/The-Nations-Header-e1536325105436.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sylvan Park",
+      "description": "A quiet neighborhood southwest of downtown.",
+      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2011/07/Sylvan-Park-Nashville-42-512x341.jpg"
+    },
+    {
+      "id": 11,
+      "name": "West End",
+      "description": "Home to the biggest 'urban' park in Nashville, West End is centrally located near downtown.",
+      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2014/02/Elliston-Nashville-TN-31.jpg"
     }
   ],
   "days": [
@@ -1019,19 +1701,13 @@
     },
     {
       "truckId": 13,
-      "neighborhoodId": 3,
-      "dayId": 3,
-      "id": 96
-    },
-    {
-      "truckId": 13,
       "neighborhoodId": 4,
       "dayId": 7,
       "id": 100
     },
     {
       "truckId": 13,
-      "neighborhoodId": 1,
+      "neighborhoodId": 2,
       "dayId": 5,
       "id": 102
     },
@@ -1046,6 +1722,1374 @@
       "neighborhoodId": 5,
       "dayId": 4,
       "id": 104
+    },
+    {
+      "truckId": 14,
+      "neighborhoodId": 2,
+      "dayId": 1,
+      "id": 105
+    },
+    {
+      "truckId": 14,
+      "neighborhoodId": 1,
+      "dayId": 2,
+      "id": 106
+    },
+    {
+      "truckId": 14,
+      "neighborhoodId": 3,
+      "dayId": 3,
+      "id": 107
+    },
+    {
+      "truckId": 14,
+      "neighborhoodId": 5,
+      "dayId": 4,
+      "id": 108
+    },
+    {
+      "truckId": 14,
+      "neighborhoodId": 1,
+      "dayId": 5,
+      "id": 109
+    },
+    {
+      "truckId": 14,
+      "neighborhoodId": 3,
+      "dayId": 6,
+      "id": 110
+    },
+    {
+      "truckId": 14,
+      "neighborhoodId": 4,
+      "dayId": 7,
+      "id": 111
+    },
+    {
+      "truckId": 15,
+      "neighborhoodId": 1,
+      "dayId": 1,
+      "id": 112
+    },
+    {
+      "truckId": 15,
+      "neighborhoodId": 3,
+      "dayId": 2,
+      "id": 113
+    },
+    {
+      "truckId": 15,
+      "neighborhoodId": 5,
+      "dayId": 3,
+      "id": 114
+    },
+    {
+      "truckId": 15,
+      "neighborhoodId": 2,
+      "dayId": 5,
+      "id": 116
+    },
+    {
+      "truckId": 15,
+      "neighborhoodId": 3,
+      "dayId": 6,
+      "id": 117
+    },
+    {
+      "truckId": 15,
+      "neighborhoodId": 3,
+      "dayId": 7,
+      "id": 118
+    },
+    {
+      "truckId": 16,
+      "neighborhoodId": 2,
+      "dayId": 1,
+      "id": 119
+    },
+    {
+      "truckId": 16,
+      "neighborhoodId": 2,
+      "dayId": 2,
+      "id": 120
+    },
+    {
+      "truckId": 16,
+      "neighborhoodId": 1,
+      "dayId": 3,
+      "id": 121
+    },
+    {
+      "truckId": 16,
+      "neighborhoodId": 5,
+      "dayId": 4,
+      "id": 122
+    },
+    {
+      "truckId": 16,
+      "neighborhoodId": 5,
+      "dayId": 5,
+      "id": 123
+    },
+    {
+      "truckId": 16,
+      "neighborhoodId": 4,
+      "dayId": 6,
+      "id": 124
+    },
+    {
+      "truckId": 16,
+      "neighborhoodId": 1,
+      "dayId": 7,
+      "id": 125
+    },
+    {
+      "truckId": 17,
+      "neighborhoodId": 2,
+      "dayId": 1,
+      "id": 126
+    },
+    {
+      "truckId": 17,
+      "neighborhoodId": 4,
+      "dayId": 2,
+      "id": 127
+    },
+    {
+      "truckId": 17,
+      "neighborhoodId": 4,
+      "dayId": 3,
+      "id": 128
+    },
+    {
+      "truckId": 17,
+      "neighborhoodId": 3,
+      "dayId": 4,
+      "id": 129
+    },
+    {
+      "truckId": 17,
+      "neighborhoodId": 1,
+      "dayId": 5,
+      "id": 130
+    },
+    {
+      "truckId": 17,
+      "neighborhoodId": 5,
+      "dayId": 6,
+      "id": 131
+    },
+    {
+      "truckId": 17,
+      "neighborhoodId": 2,
+      "dayId": 7,
+      "id": 132
+    },
+    {
+      "truckId": 18,
+      "neighborhoodId": 1,
+      "dayId": 1,
+      "id": 133
+    },
+    {
+      "truckId": 18,
+      "neighborhoodId": 3,
+      "dayId": 2,
+      "id": 134
+    },
+    {
+      "truckId": 18,
+      "neighborhoodId": 1,
+      "dayId": 3,
+      "id": 135
+    },
+    {
+      "truckId": 18,
+      "neighborhoodId": 5,
+      "dayId": 5,
+      "id": 137
+    },
+    {
+      "truckId": 18,
+      "neighborhoodId": 4,
+      "dayId": 6,
+      "id": 138
+    },
+    {
+      "truckId": 18,
+      "neighborhoodId": 2,
+      "dayId": 7,
+      "id": 139
+    },
+    {
+      "truckId": 19,
+      "neighborhoodId": 4,
+      "dayId": 1,
+      "id": 140
+    },
+    {
+      "truckId": 19,
+      "neighborhoodId": 4,
+      "dayId": 2,
+      "id": 141
+    },
+    {
+      "truckId": 19,
+      "neighborhoodId": 3,
+      "dayId": 3,
+      "id": 142
+    },
+    {
+      "truckId": 19,
+      "neighborhoodId": 2,
+      "dayId": 4,
+      "id": 143
+    },
+    {
+      "truckId": 19,
+      "neighborhoodId": 5,
+      "dayId": 5,
+      "id": 144
+    },
+    {
+      "truckId": 19,
+      "neighborhoodId": 4,
+      "dayId": 7,
+      "id": 146
+    },
+    {
+      "truckId": 20,
+      "neighborhoodId": 2,
+      "dayId": 1,
+      "id": 147
+    },
+    {
+      "truckId": 20,
+      "neighborhoodId": 2,
+      "dayId": 2,
+      "id": 148
+    },
+    {
+      "truckId": 20,
+      "neighborhoodId": 2,
+      "dayId": 3,
+      "id": 149
+    },
+    {
+      "truckId": 20,
+      "neighborhoodId": 3,
+      "dayId": 4,
+      "id": 150
+    },
+    {
+      "truckId": 20,
+      "neighborhoodId": 3,
+      "dayId": 5,
+      "id": 151
+    },
+    {
+      "truckId": 20,
+      "neighborhoodId": 3,
+      "dayId": 6,
+      "id": 152
+    },
+    {
+      "truckId": 20,
+      "neighborhoodId": 3,
+      "dayId": 7,
+      "id": 153
+    },
+    {
+      "truckId": 21,
+      "neighborhoodId": 2,
+      "dayId": 1,
+      "id": 154
+    },
+    {
+      "truckId": 21,
+      "neighborhoodId": 1,
+      "dayId": 2,
+      "id": 155
+    },
+    {
+      "truckId": 21,
+      "neighborhoodId": 3,
+      "dayId": 3,
+      "id": 156
+    },
+    {
+      "truckId": 21,
+      "neighborhoodId": 4,
+      "dayId": 4,
+      "id": 157
+    },
+    {
+      "truckId": 21,
+      "neighborhoodId": 1,
+      "dayId": 5,
+      "id": 158
+    },
+    {
+      "truckId": 21,
+      "neighborhoodId": 5,
+      "dayId": 6,
+      "id": 159
+    },
+    {
+      "truckId": 21,
+      "neighborhoodId": 1,
+      "dayId": 7,
+      "id": 160
+    },
+    {
+      "truckId": 22,
+      "neighborhoodId": 1,
+      "dayId": 1,
+      "id": 161
+    },
+    {
+      "truckId": 22,
+      "neighborhoodId": 5,
+      "dayId": 2,
+      "id": 162
+    },
+    {
+      "truckId": 22,
+      "neighborhoodId": 8,
+      "dayId": 3,
+      "id": 163
+    },
+    {
+      "truckId": 22,
+      "neighborhoodId": 3,
+      "dayId": 4,
+      "id": 164
+    },
+    {
+      "truckId": 22,
+      "neighborhoodId": 1,
+      "dayId": 5,
+      "id": 165
+    },
+    {
+      "truckId": 22,
+      "neighborhoodId": 3,
+      "dayId": 6,
+      "id": 166
+    },
+    {
+      "truckId": 22,
+      "neighborhoodId": 1,
+      "dayId": 7,
+      "id": 167
+    },
+    {
+      "truckId": 23,
+      "neighborhoodId": 3,
+      "dayId": 1,
+      "id": 168
+    },
+    {
+      "truckId": 23,
+      "neighborhoodId": 5,
+      "dayId": 2,
+      "id": 169
+    },
+    {
+      "truckId": 23,
+      "neighborhoodId": 6,
+      "dayId": 3,
+      "id": 170
+    },
+    {
+      "truckId": 23,
+      "neighborhoodId": 1,
+      "dayId": 4,
+      "id": 171
+    },
+    {
+      "truckId": 23,
+      "neighborhoodId": 3,
+      "dayId": 5,
+      "id": 172
+    },
+    {
+      "truckId": 23,
+      "neighborhoodId": 2,
+      "dayId": 6,
+      "id": 173
+    },
+    {
+      "truckId": 23,
+      "neighborhoodId": 5,
+      "dayId": 7,
+      "id": 174
+    },
+    {
+      "truckId": 24,
+      "neighborhoodId": 5,
+      "dayId": 1,
+      "id": 175
+    },
+    {
+      "truckId": 24,
+      "neighborhoodId": 4,
+      "dayId": 2,
+      "id": 176
+    },
+    {
+      "truckId": 24,
+      "neighborhoodId": 10,
+      "dayId": 3,
+      "id": 177
+    },
+    {
+      "truckId": 24,
+      "neighborhoodId": 4,
+      "dayId": 4,
+      "id": 178
+    },
+    {
+      "truckId": 24,
+      "neighborhoodId": 2,
+      "dayId": 5,
+      "id": 179
+    },
+    {
+      "truckId": 24,
+      "neighborhoodId": 2,
+      "dayId": 6,
+      "id": 180
+    },
+    {
+      "truckId": 24,
+      "neighborhoodId": 1,
+      "dayId": 7,
+      "id": 181
+    },
+    {
+      "truckId": 25,
+      "neighborhoodId": 2,
+      "dayId": 1,
+      "id": 182
+    },
+    {
+      "truckId": 25,
+      "neighborhoodId": 4,
+      "dayId": 2,
+      "id": 183
+    },
+    {
+      "truckId": 25,
+      "neighborhoodId": 7,
+      "dayId": 3,
+      "id": 184
+    },
+    {
+      "truckId": 25,
+      "neighborhoodId": 2,
+      "dayId": 4,
+      "id": 185
+    },
+    {
+      "truckId": 25,
+      "neighborhoodId": 2,
+      "dayId": 6,
+      "id": 187
+    },
+    {
+      "truckId": 25,
+      "neighborhoodId": 3,
+      "dayId": 7,
+      "id": 188
+    },
+    {
+      "truckId": 26,
+      "neighborhoodId": 4,
+      "dayId": 1,
+      "id": 189
+    },
+    {
+      "truckId": 26,
+      "neighborhoodId": 3,
+      "dayId": 2,
+      "id": 190
+    },
+    {
+      "truckId": 26,
+      "neighborhoodId": 6,
+      "dayId": 3,
+      "id": 191
+    },
+    {
+      "truckId": 26,
+      "neighborhoodId": 2,
+      "dayId": 4,
+      "id": 192
+    },
+    {
+      "truckId": 26,
+      "neighborhoodId": 1,
+      "dayId": 5,
+      "id": 193
+    },
+    {
+      "truckId": 26,
+      "neighborhoodId": 4,
+      "dayId": 6,
+      "id": 194
+    },
+    {
+      "truckId": 26,
+      "neighborhoodId": 1,
+      "dayId": 7,
+      "id": 195
+    },
+    {
+      "truckId": 27,
+      "neighborhoodId": 1,
+      "dayId": 1,
+      "id": 196
+    },
+    {
+      "truckId": 27,
+      "neighborhoodId": 1,
+      "dayId": 2,
+      "id": 197
+    },
+    {
+      "truckId": 27,
+      "neighborhoodId": 7,
+      "dayId": 3,
+      "id": 198
+    },
+    {
+      "truckId": 27,
+      "neighborhoodId": 8,
+      "dayId": 4,
+      "id": 199
+    },
+    {
+      "truckId": 27,
+      "neighborhoodId": 4,
+      "dayId": 5,
+      "id": 200
+    },
+    {
+      "truckId": 27,
+      "neighborhoodId": 6,
+      "dayId": 6,
+      "id": 201
+    },
+    {
+      "truckId": 27,
+      "neighborhoodId": 1,
+      "dayId": 7,
+      "id": 202
+    },
+    {
+      "truckId": 28,
+      "neighborhoodId": 3,
+      "dayId": 1,
+      "id": 203
+    },
+    {
+      "truckId": 28,
+      "neighborhoodId": 5,
+      "dayId": 2,
+      "id": 204
+    },
+    {
+      "truckId": 28,
+      "neighborhoodId": 8,
+      "dayId": 3,
+      "id": 205
+    },
+    {
+      "truckId": 28,
+      "neighborhoodId": 9,
+      "dayId": 4,
+      "id": 206
+    },
+    {
+      "truckId": 28,
+      "neighborhoodId": 8,
+      "dayId": 5,
+      "id": 207
+    },
+    {
+      "truckId": 28,
+      "neighborhoodId": 1,
+      "dayId": 6,
+      "id": 208
+    },
+    {
+      "truckId": 28,
+      "neighborhoodId": 2,
+      "dayId": 7,
+      "id": 209
+    },
+    {
+      "truckId": 29,
+      "neighborhoodId": 4,
+      "dayId": 1,
+      "id": 210
+    },
+    {
+      "truckId": 29,
+      "neighborhoodId": 1,
+      "dayId": 2,
+      "id": 211
+    },
+    {
+      "truckId": 29,
+      "neighborhoodId": 2,
+      "dayId": 3,
+      "id": 212
+    },
+    {
+      "truckId": 29,
+      "neighborhoodId": 4,
+      "dayId": 4,
+      "id": 213
+    },
+    {
+      "truckId": 29,
+      "neighborhoodId": 1,
+      "dayId": 6,
+      "id": 215
+    },
+    {
+      "truckId": 29,
+      "neighborhoodId": 3,
+      "dayId": 7,
+      "id": 216
+    },
+    {
+      "truckId": 31,
+      "neighborhoodId": 9,
+      "dayId": 3,
+      "id": 217
+    },
+    {
+      "truckId": 31,
+      "neighborhoodId": 1,
+      "dayId": 2,
+      "id": 218
+    },
+    {
+      "truckId": 31,
+      "neighborhoodId": 1,
+      "dayId": 1,
+      "id": 219
+    },
+    {
+      "truckId": 31,
+      "neighborhoodId": 9,
+      "dayId": 4,
+      "id": 220
+    },
+    {
+      "truckId": 31,
+      "neighborhoodId": 7,
+      "dayId": 5,
+      "id": 221
+    },
+    {
+      "truckId": 31,
+      "neighborhoodId": 5,
+      "dayId": 6,
+      "id": 222
+    },
+    {
+      "truckId": 31,
+      "neighborhoodId": 3,
+      "dayId": 7,
+      "id": 223
+    },
+    {
+      "truckId": 32,
+      "neighborhoodId": 1,
+      "dayId": 1,
+      "id": 224
+    },
+    {
+      "truckId": 32,
+      "neighborhoodId": 3,
+      "dayId": 2,
+      "id": 225
+    },
+    {
+      "truckId": 32,
+      "neighborhoodId": 6,
+      "dayId": 3,
+      "id": 226
+    },
+    {
+      "truckId": 32,
+      "neighborhoodId": 8,
+      "dayId": 4,
+      "id": 227
+    },
+    {
+      "truckId": 32,
+      "neighborhoodId": 5,
+      "dayId": 5,
+      "id": 228
+    },
+    {
+      "truckId": 32,
+      "neighborhoodId": 9,
+      "dayId": 6,
+      "id": 229
+    },
+    {
+      "truckId": 32,
+      "neighborhoodId": 1,
+      "dayId": 7,
+      "id": 230
+    },
+    {
+      "truckId": 33,
+      "neighborhoodId": 10,
+      "dayId": 1,
+      "id": 231
+    },
+    {
+      "truckId": 33,
+      "neighborhoodId": 3,
+      "dayId": 2,
+      "id": 232
+    },
+    {
+      "truckId": 33,
+      "neighborhoodId": 9,
+      "dayId": 3,
+      "id": 233
+    },
+    {
+      "truckId": 33,
+      "neighborhoodId": 6,
+      "dayId": 4,
+      "id": 234
+    },
+    {
+      "truckId": 33,
+      "neighborhoodId": 9,
+      "dayId": 5,
+      "id": 235
+    },
+    {
+      "truckId": 33,
+      "neighborhoodId": 1,
+      "dayId": 6,
+      "id": 236
+    },
+    {
+      "truckId": 33,
+      "neighborhoodId": 2,
+      "dayId": 7,
+      "id": 237
+    },
+    {
+      "truckId": 34,
+      "neighborhoodId": 1,
+      "dayId": 2,
+      "id": 239
+    },
+    {
+      "truckId": 34,
+      "neighborhoodId": 11,
+      "dayId": 3,
+      "id": 240
+    },
+    {
+      "truckId": 34,
+      "neighborhoodId": 1,
+      "dayId": 4,
+      "id": 241
+    },
+    {
+      "truckId": 34,
+      "neighborhoodId": 10,
+      "dayId": 5,
+      "id": 242
+    },
+    {
+      "truckId": 34,
+      "neighborhoodId": 3,
+      "dayId": 6,
+      "id": 243
+    },
+    {
+      "truckId": 34,
+      "neighborhoodId": 7,
+      "dayId": 7,
+      "id": 244
+    },
+    {
+      "truckId": 36,
+      "neighborhoodId": 8,
+      "dayId": 1,
+      "id": 245
+    },
+    {
+      "truckId": 36,
+      "neighborhoodId": 4,
+      "dayId": 2,
+      "id": 246
+    },
+    {
+      "truckId": 36,
+      "neighborhoodId": 4,
+      "dayId": 3,
+      "id": 247
+    },
+    {
+      "truckId": 36,
+      "neighborhoodId": 7,
+      "dayId": 4,
+      "id": 248
+    },
+    {
+      "truckId": 36,
+      "neighborhoodId": 10,
+      "dayId": 5,
+      "id": 249
+    },
+    {
+      "truckId": 36,
+      "neighborhoodId": 11,
+      "dayId": 6,
+      "id": 250
+    },
+    {
+      "truckId": 36,
+      "neighborhoodId": 4,
+      "dayId": 7,
+      "id": 251
+    },
+    {
+      "truckId": 37,
+      "neighborhoodId": 11,
+      "dayId": 1,
+      "id": 252
+    },
+    {
+      "truckId": 37,
+      "neighborhoodId": 9,
+      "dayId": 2,
+      "id": 253
+    },
+    {
+      "truckId": 37,
+      "neighborhoodId": 9,
+      "dayId": 3,
+      "id": 254
+    },
+    {
+      "truckId": 37,
+      "neighborhoodId": 6,
+      "dayId": 4,
+      "id": 255
+    },
+    {
+      "truckId": 37,
+      "neighborhoodId": 8,
+      "dayId": 5,
+      "id": 256
+    },
+    {
+      "truckId": 37,
+      "neighborhoodId": 9,
+      "dayId": 6,
+      "id": 257
+    },
+    {
+      "truckId": 37,
+      "neighborhoodId": 2,
+      "dayId": 7,
+      "id": 258
+    },
+    {
+      "truckId": 39,
+      "neighborhoodId": 7,
+      "dayId": 1,
+      "id": 259
+    },
+    {
+      "truckId": 39,
+      "neighborhoodId": 9,
+      "dayId": 2,
+      "id": 260
+    },
+    {
+      "truckId": 39,
+      "neighborhoodId": 9,
+      "dayId": 3,
+      "id": 261
+    },
+    {
+      "truckId": 39,
+      "neighborhoodId": 8,
+      "dayId": 4,
+      "id": 262
+    },
+    {
+      "truckId": 39,
+      "neighborhoodId": 10,
+      "dayId": 5,
+      "id": 263
+    },
+    {
+      "truckId": 39,
+      "neighborhoodId": 6,
+      "dayId": 6,
+      "id": 264
+    },
+    {
+      "truckId": 39,
+      "neighborhoodId": 8,
+      "dayId": 7,
+      "id": 265
+    },
+    {
+      "truckId": 38,
+      "neighborhoodId": 9,
+      "dayId": 1,
+      "id": 266
+    },
+    {
+      "truckId": 38,
+      "neighborhoodId": 5,
+      "dayId": 2,
+      "id": 267
+    },
+    {
+      "truckId": 38,
+      "neighborhoodId": 10,
+      "dayId": 3,
+      "id": 268
+    },
+    {
+      "truckId": 38,
+      "neighborhoodId": 7,
+      "dayId": 4,
+      "id": 269
+    },
+    {
+      "truckId": 38,
+      "neighborhoodId": 10,
+      "dayId": 5,
+      "id": 270
+    },
+    {
+      "truckId": 38,
+      "neighborhoodId": 4,
+      "dayId": 6,
+      "id": 271
+    },
+    {
+      "truckId": 38,
+      "neighborhoodId": 9,
+      "dayId": 7,
+      "id": 272
+    },
+    {
+      "truckId": 40,
+      "neighborhoodId": 9,
+      "dayId": 7,
+      "id": 273
+    },
+    {
+      "truckId": 40,
+      "neighborhoodId": 4,
+      "dayId": 1,
+      "id": 274
+    },
+    {
+      "truckId": 41,
+      "neighborhoodId": 10,
+      "dayId": 1,
+      "id": 275
+    },
+    {
+      "truckId": 41,
+      "neighborhoodId": 7,
+      "dayId": 2,
+      "id": 276
+    },
+    {
+      "truckId": 41,
+      "neighborhoodId": 7,
+      "dayId": 3,
+      "id": 277
+    },
+    {
+      "truckId": 41,
+      "neighborhoodId": 1,
+      "dayId": 4,
+      "id": 278
+    },
+    {
+      "truckId": 41,
+      "neighborhoodId": 9,
+      "dayId": 5,
+      "id": 279
+    },
+    {
+      "truckId": 41,
+      "neighborhoodId": 8,
+      "dayId": 6,
+      "id": 280
+    },
+    {
+      "truckId": 41,
+      "neighborhoodId": 5,
+      "dayId": 7,
+      "id": 281
+    },
+    {
+      "truckId": 42,
+      "neighborhoodId": 4,
+      "dayId": 1,
+      "id": 282
+    },
+    {
+      "truckId": 42,
+      "neighborhoodId": 7,
+      "dayId": 2,
+      "id": 283
+    },
+    {
+      "truckId": 42,
+      "neighborhoodId": 9,
+      "dayId": 3,
+      "id": 284
+    },
+    {
+      "truckId": 42,
+      "neighborhoodId": 11,
+      "dayId": 4,
+      "id": 285
+    },
+    {
+      "truckId": 42,
+      "neighborhoodId": 7,
+      "dayId": 5,
+      "id": 286
+    },
+    {
+      "truckId": 42,
+      "neighborhoodId": 3,
+      "dayId": 6,
+      "id": 287
+    },
+    {
+      "truckId": 42,
+      "neighborhoodId": 5,
+      "dayId": 7,
+      "id": 288
+    },
+    {
+      "truckId": 43,
+      "neighborhoodId": 7,
+      "dayId": 3,
+      "id": 289
+    },
+    {
+      "truckId": 43,
+      "neighborhoodId": 1,
+      "dayId": 1,
+      "id": 290
+    },
+    {
+      "truckId": 43,
+      "neighborhoodId": 4,
+      "dayId": 2,
+      "id": 291
+    },
+    {
+      "truckId": 43,
+      "neighborhoodId": 2,
+      "dayId": 4,
+      "id": 292
+    },
+    {
+      "truckId": 43,
+      "neighborhoodId": 5,
+      "dayId": 5,
+      "id": 293
+    },
+    {
+      "truckId": 43,
+      "neighborhoodId": 10,
+      "dayId": 6,
+      "id": 294
+    },
+    {
+      "truckId": 43,
+      "neighborhoodId": 4,
+      "dayId": 7,
+      "id": 295
+    },
+    {
+      "truckId": 44,
+      "neighborhoodId": 3,
+      "dayId": 1,
+      "id": 296
+    },
+    {
+      "truckId": 44,
+      "neighborhoodId": 3,
+      "dayId": 3,
+      "id": 297
+    },
+    {
+      "truckId": 44,
+      "neighborhoodId": 4,
+      "dayId": 2,
+      "id": 298
+    },
+    {
+      "truckId": 44,
+      "neighborhoodId": 7,
+      "dayId": 4,
+      "id": 299
+    },
+    {
+      "truckId": 44,
+      "neighborhoodId": 10,
+      "dayId": 5,
+      "id": 300
+    },
+    {
+      "truckId": 44,
+      "neighborhoodId": 1,
+      "dayId": 6,
+      "id": 301
+    },
+    {
+      "truckId": 44,
+      "neighborhoodId": 11,
+      "dayId": 7,
+      "id": 302
+    },
+    {
+      "truckId": 45,
+      "neighborhoodId": 2,
+      "dayId": 3,
+      "id": 303
+    },
+    {
+      "truckId": 45,
+      "neighborhoodId": 7,
+      "dayId": 4,
+      "id": 304
+    },
+    {
+      "truckId": 45,
+      "neighborhoodId": 3,
+      "dayId": 5,
+      "id": 305
+    },
+    {
+      "truckId": 46,
+      "neighborhoodId": 11,
+      "dayId": 3,
+      "id": 306
+    },
+    {
+      "truckId": 46,
+      "neighborhoodId": 7,
+      "dayId": 4,
+      "id": 307
+    },
+    {
+      "truckId": 46,
+      "neighborhoodId": 3,
+      "dayId": 5,
+      "id": 308
+    },
+    {
+      "truckId": 46,
+      "neighborhoodId": 5,
+      "dayId": 6,
+      "id": 309
+    },
+    {
+      "truckId": 46,
+      "neighborhoodId": 9,
+      "dayId": 7,
+      "id": 310
+    },
+    {
+      "truckId": 46,
+      "neighborhoodId": 8,
+      "dayId": 2,
+      "id": 311
+    },
+    {
+      "truckId": 46,
+      "neighborhoodId": 10,
+      "dayId": 1,
+      "id": 312
+    },
+    {
+      "truckId": 45,
+      "neighborhoodId": 5,
+      "dayId": 1,
+      "id": 313
+    },
+    {
+      "truckId": 45,
+      "neighborhoodId": 10,
+      "dayId": 2,
+      "id": 314
+    },
+    {
+      "truckId": 45,
+      "neighborhoodId": 1,
+      "dayId": 6,
+      "id": 315
+    },
+    {
+      "truckId": 45,
+      "neighborhoodId": 9,
+      "dayId": 7,
+      "id": 316
+    },
+    {
+      "truckId": 40,
+      "neighborhoodId": 6,
+      "dayId": 2,
+      "id": 317
+    },
+    {
+      "truckId": 40,
+      "neighborhoodId": 10,
+      "dayId": 3,
+      "id": 318
+    },
+    {
+      "truckId": 40,
+      "neighborhoodId": 4,
+      "dayId": 4,
+      "id": 319
+    },
+    {
+      "truckId": 40,
+      "neighborhoodId": 2,
+      "dayId": 5,
+      "id": 320
+    },
+    {
+      "truckId": 40,
+      "neighborhoodId": 10,
+      "dayId": 6,
+      "id": 321
+    },
+    {
+      "truckId": 35,
+      "neighborhoodId": 10,
+      "dayId": 1,
+      "id": 322
+    },
+    {
+      "truckId": 35,
+      "neighborhoodId": 10,
+      "dayId": 2,
+      "id": 323
+    },
+    {
+      "truckId": 35,
+      "neighborhoodId": 11,
+      "dayId": 3,
+      "id": 324
+    },
+    {
+      "truckId": 35,
+      "neighborhoodId": 8,
+      "dayId": 4,
+      "id": 325
+    },
+    {
+      "truckId": 35,
+      "neighborhoodId": 11,
+      "dayId": 5,
+      "id": 326
+    },
+    {
+      "truckId": 35,
+      "neighborhoodId": 5,
+      "dayId": 6,
+      "id": 327
+    },
+    {
+      "truckId": 35,
+      "neighborhoodId": 9,
+      "dayId": 7,
+      "id": 328
+    },
+    {
+      "truckId": 34,
+      "neighborhoodId": 4,
+      "dayId": 1,
+      "id": 329
+    },
+    {
+      "truckId": 30,
+      "neighborhoodId": 4,
+      "dayId": 1,
+      "id": 330
+    },
+    {
+      "truckId": 30,
+      "neighborhoodId": 8,
+      "dayId": 2,
+      "id": 331
+    },
+    {
+      "truckId": 30,
+      "neighborhoodId": 11,
+      "dayId": 3,
+      "id": 332
+    },
+    {
+      "truckId": 30,
+      "neighborhoodId": 8,
+      "dayId": 4,
+      "id": 333
+    },
+    {
+      "truckId": 30,
+      "neighborhoodId": 1,
+      "dayId": 5,
+      "id": 334
+    },
+    {
+      "truckId": 30,
+      "neighborhoodId": 4,
+      "dayId": 6,
+      "id": 335
+    },
+    {
+      "truckId": 30,
+      "neighborhoodId": 3,
+      "dayId": 7,
+      "id": 336
+    },
+    {
+      "truckId": 29,
+      "neighborhoodId": 10,
+      "dayId": 5,
+      "id": 337
+    },
+    {
+      "truckId": 25,
+      "neighborhoodId": 10,
+      "dayId": 5,
+      "id": 338
     }
   ],
   "truckFoodTypes": [
@@ -1123,6 +3167,311 @@
       "truckId": 13,
       "foodTypeId": 7,
       "id": 15
+    },
+    {
+      "truckId": 14,
+      "foodTypeId": 8,
+      "id": 16
+    },
+    {
+      "truckId": 15,
+      "foodTypeId": 6,
+      "id": 17
+    },
+    {
+      "truckId": 16,
+      "foodTypeId": 9,
+      "id": 18
+    },
+    {
+      "truckId": 17,
+      "foodTypeId": 5,
+      "id": 19
+    },
+    {
+      "truckId": 17,
+      "foodTypeId": 10,
+      "id": 20
+    },
+    {
+      "truckId": 17,
+      "foodTypeId": 11,
+      "id": 21
+    },
+    {
+      "truckId": 18,
+      "foodTypeId": 4,
+      "id": 22
+    },
+    {
+      "truckId": 18,
+      "foodTypeId": 2,
+      "id": 23
+    },
+    {
+      "truckId": 19,
+      "foodTypeId": 3,
+      "id": 24
+    },
+    {
+      "truckId": 19,
+      "foodTypeId": 12,
+      "id": 25
+    },
+    {
+      "truckId": 20,
+      "foodTypeId": 5,
+      "id": 26
+    },
+    {
+      "truckId": 21,
+      "foodTypeId": 10,
+      "id": 27
+    },
+    {
+      "truckId": 21,
+      "foodTypeId": 5,
+      "id": 28
+    },
+    {
+      "truckId": 22,
+      "foodTypeId": 10,
+      "id": 29
+    },
+    {
+      "truckId": 22,
+      "foodTypeId": 13,
+      "id": 30
+    },
+    {
+      "truckId": 23,
+      "foodTypeId": 12,
+      "id": 31
+    },
+    {
+      "truckId": 24,
+      "foodTypeId": 13,
+      "id": 32
+    },
+    {
+      "truckId": 24,
+      "foodTypeId": 5,
+      "id": 33
+    },
+    {
+      "truckId": 25,
+      "foodTypeId": 11,
+      "id": 34
+    },
+    {
+      "truckId": 25,
+      "foodTypeId": 14,
+      "id": 35
+    },
+    {
+      "truckId": 26,
+      "foodTypeId": 5,
+      "id": 36
+    },
+    {
+      "truckId": 26,
+      "foodTypeId": 1,
+      "id": 37
+    },
+    {
+      "truckId": 27,
+      "foodTypeId": 5,
+      "id": 38
+    },
+    {
+      "truckId": 27,
+      "foodTypeId": 10,
+      "id": 39
+    },
+    {
+      "truckId": 28,
+      "foodTypeId": 3,
+      "id": 40
+    },
+    {
+      "truckId": 29,
+      "foodTypeId": 13,
+      "id": 41
+    },
+    {
+      "truckId": 29,
+      "foodTypeId": 14,
+      "id": 42
+    },
+    {
+      "truckId": 29,
+      "foodTypeId": 11,
+      "id": 43
+    },
+    {
+      "truckId": 30,
+      "foodTypeId": 13,
+      "id": 44
+    },
+    {
+      "truckId": 31,
+      "foodTypeId": 5,
+      "id": 45
+    },
+    {
+      "truckId": 31,
+      "foodTypeId": 9,
+      "id": 46
+    },
+    {
+      "truckId": 31,
+      "foodTypeId": 1,
+      "id": 47
+    },
+    {
+      "truckId": 32,
+      "foodTypeId": 14,
+      "id": 48
+    },
+    {
+      "truckId": 32,
+      "foodTypeId": 15,
+      "id": 49
+    },
+    {
+      "truckId": 32,
+      "foodTypeId": 11,
+      "id": 50
+    },
+    {
+      "truckId": 33,
+      "foodTypeId": 5,
+      "id": 51
+    },
+    {
+      "truckId": 34,
+      "foodTypeId": 5,
+      "id": 52
+    },
+    {
+      "truckId": 34,
+      "foodTypeId": 16,
+      "id": 53
+    },
+    {
+      "truckId": 35,
+      "foodTypeId": 4,
+      "id": 54
+    },
+    {
+      "truckId": 36,
+      "foodTypeId": 5,
+      "id": 55
+    },
+    {
+      "truckId": 36,
+      "foodTypeId": 14,
+      "id": 56
+    },
+    {
+      "truckId": 36,
+      "foodTypeId": 3,
+      "id": 57
+    },
+    {
+      "truckId": 36,
+      "foodTypeId": 14,
+      "id": 58
+    },
+    {
+      "truckId": 37,
+      "foodTypeId": 3,
+      "id": 59
+    },
+    {
+      "truckId": 38,
+      "foodTypeId": 5,
+      "id": 60
+    },
+    {
+      "truckId": 38,
+      "foodTypeId": 11,
+      "id": 61
+    },
+    {
+      "truckId": 38,
+      "foodTypeId": 14,
+      "id": 62
+    },
+    {
+      "truckId": 39,
+      "foodTypeId": 3,
+      "id": 63
+    },
+    {
+      "truckId": 40,
+      "foodTypeId": 3,
+      "id": 64
+    },
+    {
+      "truckId": 41,
+      "foodTypeId": 2,
+      "id": 65
+    },
+    {
+      "truckId": 42,
+      "foodTypeId": 5,
+      "id": 66
+    },
+    {
+      "truckId": 42,
+      "foodTypeId": 3,
+      "id": 67
+    },
+    {
+      "truckId": 43,
+      "foodTypeId": 5,
+      "id": 68
+    },
+    {
+      "truckId": 43,
+      "foodTypeId": 11,
+      "id": 69
+    },
+    {
+      "truckId": 43,
+      "foodTypeId": 13,
+      "id": 70
+    },
+    {
+      "truckId": 44,
+      "foodTypeId": 13,
+      "id": 71
+    },
+    {
+      "truckId": 44,
+      "foodTypeId": 11,
+      "id": 72
+    },
+    {
+      "truckId": 44,
+      "foodTypeId": 5,
+      "id": 73
+    },
+    {
+      "truckId": 45,
+      "foodTypeId": 3,
+      "id": 74
+    },
+    {
+      "truckId": 45,
+      "foodTypeId": 11,
+      "id": 75
+    },
+    {
+      "truckId": 46,
+      "foodTypeId": 8,
+      "id": 76
     }
   ],
   "suggestions": [
@@ -1195,6 +3544,16 @@
       "read": false,
       "includeContact": false,
       "id": 11
+    },
+    {
+      "userId": 6,
+      "truckId": 1,
+      "neighborhoodId": 4,
+      "date": "12/16/2021",
+      "message": "some reason",
+      "read": true,
+      "includeContact": false,
+      "id": 12
     }
   ]
 }
