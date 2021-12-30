@@ -103,12 +103,19 @@
       "email": "user@demo.com",
       "owner": false,
       "id": 13
+    },
+    {
+      "firstName": "Prince",
+      "lastName": "Puggle",
+      "email": "prince@puggle.com",
+      "owner": false,
+      "id": 14
     }
   ],
   "trucks": [
     {
       "id": 1,
-      "name": "Grilled Cheeserie",
+      "name": "The Grilled Cheeserie",
       "description": "Grilled cheese. Need we say more?",
       "websiteURL": "https://grilledcheeserie.com/",
       "instagramURL": "https://www.instagram.com/thegrilledcheeserie/",
@@ -138,12 +145,10 @@
       "description": "Gourmet Hawaiian shaved ice made with 100% cane sugar",
       "websiteURL": "https://www.bluemonkeyshavedice.com/",
       "instagramURL": "https://www.instagram.com/bluemonkeyice/",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/181569119_3933528183396908_8191068417583736295_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=iiIDeyiBfBYAX9hOSE0&_nc_ht=scontent-atl3-2.xx&oh=7331f6fd9ef06646187cd5445233a5f3&oe=61D4FA6C",
       "hours": "10am-4pm",
       "dollars": 1,
-      "userRating": 3
+      "userRating": 4.166666666666667
     },
     {
       "id": 4,
@@ -185,19 +190,6 @@
       "userRating": 0
     },
     {
-      "id": 7,
-      "name": "Il Forno",
-      "description": "A synergy of fresh ingredients and centuries old traditions. welcome to Nashville's authentic mobile pizzeria.",
-      "websiteURL": "https://ilfornowoodfired.com/",
-      "instagramURL": "https://www.instagram.com/ilfornonashville/?hl=en",
-      "facebookURL": "",
-      "twitterURL": "",
-      "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/19488601_428524294201645_5413051548439124358_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=_BiPdEMTdD8AX-V5A33&_nc_ht=scontent-atl3-2.xx&oh=2dc06f581503d4f12f235da0add60705&oe=61D3FE2E",
-      "hours": "4pm-7pm",
-      "dollars": 2,
-      "userRating": 0
-    },
-    {
       "id": 8,
       "name": "Smoke Et Al",
       "description": "Why did this description disappear?",
@@ -208,32 +200,6 @@
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/27540290_1736086619787443_8332390477082173782_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jZWNpEHri5wAX_ucmGh&_nc_ht=scontent-atl3-2.xx&oh=83cad04b5536060e5053f0bfa3ba6f10&oe=61D466EB",
       "hours": "11am-4pm",
       "dollars": 2,
-      "userRating": 0
-    },
-    {
-      "id": 9,
-      "name": "Rovin Ravioli",
-      "description": "We sell one thing and one thing only.... Ravioli",
-      "websiteURL": "https://www.google.com/search?q=ravioli&sxsrf=AOaemvKb8dl7pHVFT0797vvufXrRMbiUWw:1639096644947&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiD95fq_tf0AhWQct8KHdlJAQgQ_AUoAXoECAIQAw&biw=1920&bih=937&dpr=1",
-      "instagramURL": "https://www.instagram.com/raviolo_factory",
-      "facebookURL": "",
-      "twitterURL": "",
-      "profileImgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGURuL5oVfck9fQPkil0RhPukPoLYYqfcHw&usqp=CAU",
-      "hours": "10am-4pm",
-      "dollars": 2,
-      "userRating": 2
-    },
-    {
-      "id": 10,
-      "name": "There's Something About Mozzarella",
-      "description": "Cheese... there's just something about it",
-      "websiteURL": "https://www.imdb.com/title/tt0129387/",
-      "instagramURL": "https://www.instagram.com/explore/search/keyword/?hl=en&q=mozzarella",
-      "facebookURL": "",
-      "twitterURL": "",
-      "profileImgSrc": "https://cdn.shopify.com/s/files/1/2836/2982/products/mozzarella-cheese_grande.jpg?v=1529434174",
-      "hours": "1-1:20pm",
-      "dollars": 3,
       "userRating": 0
     },
     {
@@ -626,17 +592,15 @@
       "id": 40
     },
     {
+      "id": 41,
       "name": "Pie Town Tacos",
       "description": "Simple, delicious street tacos and sides.",
       "websiteURL": "https://pietowntacos.com/",
       "instagramURL": "https://www.facebook.com/pietowntacos",
-      "facebookURL": "https://www.instagram.com/pietowntacos/",
-      "twitterURL": "https://twitter.com/pietowntacos",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/105991463_159686155599534_2069819787073857078_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Mwnr3AzLHx0AX_htZP2&_nc_ht=scontent-atl3-2.xx&oh=00_AT-A9LFtxaZfDTBdEywj8tZHV_8u4GLESZ2My9SuaxiMkA&oe=61EFF67F",
       "hours": "10am-3pm",
       "dollars": 1,
-      "userRating": 0,
-      "id": 41
+      "userRating": 4
     },
     {
       "name": "Peach Cobbler Factory",
@@ -736,24 +700,9 @@
       "truckId": 6
     },
     {
-      "id": 7,
-      "userId": 6,
-      "truckId": 7
-    },
-    {
       "id": 8,
       "userId": 6,
       "truckId": 8
-    },
-    {
-      "userId": 6,
-      "truckId": 9,
-      "id": 9
-    },
-    {
-      "userId": 6,
-      "truckId": 10,
-      "id": 10
     },
     {
       "userId": 6,
@@ -1062,6 +1011,26 @@
       "userId": 6,
       "truckId": 20,
       "id": 48
+    },
+    {
+      "userId": 14,
+      "truckId": 4,
+      "id": 49
+    },
+    {
+      "userId": 2,
+      "truckId": 21,
+      "id": 50
+    },
+    {
+      "userId": 2,
+      "truckId": 46,
+      "id": 51
+    },
+    {
+      "userId": 2,
+      "truckId": 16,
+      "id": 52
     }
   ],
   "userTruckReviews": [
@@ -1070,7 +1039,8 @@
       "userId": 2,
       "truckId": 1,
       "review": "So delicious and super fast service!",
-      "date": "2021-12-04",
+      "date": "12/04/2021",
+      "parsedDate": 1638600000000,
       "rating": 5,
       "anonymous": false
     },
@@ -1079,7 +1049,8 @@
       "userId": 1,
       "truckId": 1,
       "review": "SOOOO GOOD! Looooove it so much!",
-      "date": "2021-12-06",
+      "date": "12/06/2021",
+      "parsedDate": 1638800000000,
       "rating": 5,
       "anonymous": false
     },
@@ -1087,7 +1058,8 @@
       "truckId": 3,
       "userId": 1,
       "review": "MMM. Wow, I love this shaved ice so much! Reminds me of my trip to Maui",
-      "date": "2021-12-07",
+      "date": "1/07/2020",
+      "parsedDate": 1578400000000,
       "id": 4,
       "rating": 5,
       "anonymous": false
@@ -1096,7 +1068,8 @@
       "userId": 1,
       "truckId": 12,
       "review": "Delicioso! Will definitely be back in the future!",
-      "date": "2021-12-13",
+      "date": "12/13/2021",
+      "parsedDate": 1639400000000,
       "id": 7,
       "rating": 5,
       "anonymous": false
@@ -1105,87 +1078,170 @@
       "userId": 1,
       "truckId": 4,
       "review": "Tastes just like Maine!",
-      "date": "2021-12-08",
+      "date": "12/08/2021",
+      "parsedDate": 1639000000000,
       "id": 8,
       "rating": 5,
       "anonymous": false
     },
     {
-      "userId": 1,
-      "truckId": 9,
-      "review": "Meh, it was alright. Kinda rubbery.",
-      "date": "2021-12-07",
-      "anonymous": true,
-      "rating": 2,
-      "id": 10
+      "userId": 14,
+      "truckId": 41,
+      "review": "received the royal treatment!",
+      "date": "12/15/2021",
+      "parsedDate": 1639627500000,
+      "anonymous": false,
+      "rating": 5,
+      "id": 11
+    },
+    {
+      "userId": 14,
+      "truckId": 41,
+      "review": "twas lovely",
+      "date": "12/21/2021",
+      "parsedDate": 1640100000000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 12
+    },
+    {
+      "userId": 14,
+      "truckId": 41,
+      "review": "once more for the ladies",
+      "date": "12/14/2021",
+      "parsedDate": 1639526400000,
+      "anonymous": false,
+      "rating": 3,
+      "id": 13
+    },
+    {
+      "userId": 14,
+      "truckId": 3,
+      "review": "Simply delicious",
+      "date": "12/15/2021",
+      "parsedDate": 1639627500000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "truckId": 3,
+      "review": "mid december",
+      "date": "12/13/2021",
+      "parsedDate": 1639400000000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "truckId": 3,
+      "review": "new one - end of december",
+      "date": "12/29/2021",
+      "parsedDate": 1640800000000,
+      "anonymous": false,
+      "rating": 5,
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "truckId": 3,
+      "review": "testing parsed date property value",
+      "date": "12/14/2021",
+      "parsedDate": 1639526400000,
+      "anonymous": false,
+      "rating": 3,
+      "id": 18
+    },
+    {
+      "userId": 2,
+      "truckId": 3,
+      "review": "new",
+      "date": "12/19/2021",
+      "parsedDate": 1639958400000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 19
     }
   ],
   "neighborhoods": [
     {
       "id": 1,
       "name": "12 South",
-      "description": "Extremely pedestrian-friendly, the main strip of this neighborhood starts around 12th and Kirkwood Ave, near Sevier Park.",
-      "profileImgSrc": "https://www.visitmusiccity.com/sites/www/files/styles/medium_portrait_3x4/public/2019-03/IBelieveinNashville.jpg?h=82f92a78&itok=8hHqR4Am"
+      "description": "Extremely pedestrian-friendly, the main strip of this neighborhood starts around 12th and Kirkwood Ave, near Sevier Park. This half-mile stretch is home to vintage clothing stores, gourmet restaurants, bakeries, boutiques, and other unique businesses.",
+      "profileImgSrc": "https://www.visitmusiccity.com/sites/www/files/styles/medium_portrait_3x4/public/2019-03/IBelieveinNashville.jpg?h=82f92a78&itok=8hHqR4Am",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/12-south"
     },
     {
       "id": 2,
       "name": "5 Points",
-      "description": "Located within the heart of East Nashville, along Woodland Street and the Cumberland River.",
-      "profileImgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eastnashvillemural.jpg/250px-Eastnashvillemural.jpg"
+      "description": "Located within the heart of East Nashville, along Woodland Street and the Cumberland River, this area is home to a culturally diverse and eclectic community, complete with plenty of dive bars, craft cocktail joints, and vintage stores.",
+      "profileImgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eastnashvillemural.jpg/250px-Eastnashvillemural.jpg",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/east-nashville"
     },
     {
       "id": 3,
       "name": "Berry Hill",
-      "description": "Just south of the city, Berry Hill is a flourishing neighborhood best known for its wide-variety of locally-owned businesses",
-      "profileImgSrc": "https://www.berryhilltn.org/ImageRepository/Document?documentID=204"
+      "description": "Located just south of the city, beyond 8th ave, Berry Hill is a flourishing neighborhood best known for its wide-variety of locally-owned funky independent shops, restaurants, recording studios and music publishers occupying many of the homes in this neighborhood.",
+      "profileImgSrc": "https://www.berryhilltn.org/ImageRepository/Document?documentID=204",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/berry-hill"
     },
     {
       "id": 4,
       "name": "Downtown",
-      "description": "The energetic hub of Nashville's country music scene, centered along Broadway.",
-      "profileImgSrc": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/listicle-broadway.png"
+      "description": "The energetic hub of Nashville's country music scene, centered along Broadway. Historic buildings have been reimagined into music attractions, boutique hotels, art galleries and, of course, honky tonks.",
+      "profileImgSrc": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/listicle-broadway.png",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/downtown"
     },
     {
       "id": 5,
       "name": "Germantown",
-      "description": "Trendy nieghborhood directly north of downtown Nasvhille.",
-      "profileImgSrc": "https://images.squarespace-cdn.com/content/v1/5c115fec9d5abbba78a23c93/1585605193768-DITS62RJ20PGD0A4O7V9/Germantown+map+02-01.jpg?format=1000w"
+      "description": "Trendy nieghborhood directly north of downtown Nasvhille, Germantown is named for the European immigrants who first settled here in the mid-19th centry. This area is home to the Tennessee State Museum and Bicentennial Capital Mall State Park.",
+      "profileImgSrc": "https://images.squarespace-cdn.com/content/v1/5c115fec9d5abbba78a23c93/1585605193768-DITS62RJ20PGD0A4O7V9/Germantown+map+02-01.jpg?format=1000w",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/germantown"
     },
     {
       "id": 6,
       "name": "Green Hills",
-      "description": "Located south of downtown and in close proximity to Vanderbilt, Belmont, and Lipscomb, directly south across I-440 from Hillsboro Village",
-      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/09/Green-Hills-Nashville-2021_-26-1-scaled.jpg"
+      "description": "Located south of downtown and in close proximity to Vanderbilt, Belmont, and Lipscomb, directly south across I-440 from Hillsboro Village, Green Hills is an affluent suburban enclave known for upscale brands, boutiques, and the famed Bluebird Cafe.",
+      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/09/Green-Hills-Nashville-2021_-26-1-scaled.jpg",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/green-hills"
     },
     {
       "id": 7,
       "name": "The Gulch",
-      "description": "South southwest of downtown, along 11th and 12th Ave, the Gulch is also home to the Station Inn and City Hall music venues.",
-      "profileImgSrc": "https://boomtown-production-consumer-backup.s3.amazonaws.com/2603/files/2016/11/THE-GULCH.png"
+      "description": "South southwest of downtown, along 11th and 12th Ave, the Gulch was once an abandoned industrial area that's since been revitalized. Now a LEED-certified, highly walkable community, The Gulch is teeming with instagramable murals, live music venues, breweries, and more.",
+      "profileImgSrc": "https://boomtown-production-consumer-backup.s3.amazonaws.com/2603/files/2016/11/THE-GULCH.png",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/gulch"
     },
     {
       "id": 8,
       "name": "Hillsboro Village",
-      "description": "Tree-lined streets of Wedgewood and 21st Ave, adjacent to the campuses of both Vanderbilt and Belmont Universities.",
-      "profileImgSrc": "https://i.etsystatic.com/6415380/r/il/318c77/664411097/il_570xN.664411097_jr18.jpg"
+      "description": "Tree-lined streets of Wedgewood and 21st Ave, adjacent to the campuses of both Vanderbilt and Belmont Universities. A great location for strolling, Hillsboro Village contains plenty of shops, boutiqes, and restaurants.",
+      "profileImgSrc": "https://i.etsystatic.com/6415380/r/il/318c77/664411097/il_570xN.664411097_jr18.jpg",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/hillsboro-village"
     },
     {
       "id": 9,
       "name": "The Nations",
-      "description": "One of the oldest neighborhoods in Nashville, currently experiencing a resurgence of growth",
-      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2018/09/The-Nations-Header-e1536325105436.jpg"
+      "description": "One of the oldest neighborhoods in Nashville, The Nations is a former industrial area, complete with abandoned warehouses and mills that have attracted craft breweries, bars, and art galleries to the area.",
+      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2018/09/The-Nations-Header-e1536325105436.jpg",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/the-nations"
     },
     {
       "id": 10,
       "name": "Sylvan Park",
-      "description": "A quiet neighborhood southwest of downtown.",
-      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2011/07/Sylvan-Park-Nashville-42-512x341.jpg"
+      "description": "A quiet neighborhood southwest of downtown, whose locally-owned restaurants, bars, and shops have stood the test of time. The neighborhood's main thoroughfare is Murphy Road, ending at McCabe Park.",
+      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2011/07/Sylvan-Park-Nashville-42-512x341.jpg",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/sylvan-park"
     },
     {
       "id": 11,
       "name": "West End",
-      "description": "Home to the biggest 'urban' park in Nashville, West End is centrally located near downtown.",
-      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2014/02/Elliston-Nashville-TN-31.jpg"
+      "description": "Home to the biggest 'urban' park in Nashville, West End is located just south of downtown. Perhaps best known for Centennial Park - home to a full-scale replica of the Green Parthenon. Elliston Place, just up the way, is home to some of the city's best rock clubs. ",
+      "profileImgSrc": "http://nashvilleguru.com/officialwebsite/wp-content/uploads/2014/02/Elliston-Nashville-TN-31.jpg",
+      "linkNG": "http://nashvilleguru.com/neighborhoods/west-end"
     }
   ],
   "days": [
@@ -1442,48 +1498,6 @@
       "dayId": 7
     },
     {
-      "id": 43,
-      "truckId": 7,
-      "neighborhoodId": 3,
-      "dayId": 1
-    },
-    {
-      "id": 44,
-      "truckId": 7,
-      "neighborhoodId": 4,
-      "dayId": 2
-    },
-    {
-      "id": 45,
-      "truckId": 7,
-      "neighborhoodId": 1,
-      "dayId": 3
-    },
-    {
-      "id": 46,
-      "truckId": 7,
-      "neighborhoodId": 3,
-      "dayId": 4
-    },
-    {
-      "id": 47,
-      "truckId": 7,
-      "neighborhoodId": 5,
-      "dayId": 5
-    },
-    {
-      "id": 48,
-      "truckId": 7,
-      "neighborhoodId": 2,
-      "dayId": 6
-    },
-    {
-      "id": 49,
-      "truckId": 7,
-      "neighborhoodId": 1,
-      "dayId": 7
-    },
-    {
       "id": 50,
       "truckId": 8,
       "neighborhoodId": 3,
@@ -1526,48 +1540,6 @@
       "dayId": 7
     },
     {
-      "truckId": 9,
-      "neighborhoodId": 3,
-      "dayId": 4,
-      "id": 57
-    },
-    {
-      "truckId": 9,
-      "neighborhoodId": 2,
-      "dayId": 2,
-      "id": 58
-    },
-    {
-      "truckId": 9,
-      "neighborhoodId": 3,
-      "dayId": 7,
-      "id": 59
-    },
-    {
-      "truckId": 9,
-      "neighborhoodId": 1,
-      "dayId": 1,
-      "id": 60
-    },
-    {
-      "truckId": 9,
-      "neighborhoodId": 5,
-      "dayId": 3,
-      "id": 61
-    },
-    {
-      "truckId": 9,
-      "neighborhoodId": 5,
-      "dayId": 5,
-      "id": 62
-    },
-    {
-      "truckId": 9,
-      "neighborhoodId": 5,
-      "dayId": 6,
-      "id": 63
-    },
-    {
       "truckId": 1,
       "neighborhoodId": 3,
       "dayId": 5,
@@ -1584,36 +1556,6 @@
       "neighborhoodId": 1,
       "dayId": 4,
       "id": 68
-    },
-    {
-      "truckId": 10,
-      "neighborhoodId": 5,
-      "dayId": 2,
-      "id": 70
-    },
-    {
-      "truckId": 10,
-      "neighborhoodId": 3,
-      "dayId": 4,
-      "id": 72
-    },
-    {
-      "truckId": 10,
-      "neighborhoodId": 4,
-      "dayId": 7,
-      "id": 73
-    },
-    {
-      "truckId": 10,
-      "neighborhoodId": 5,
-      "dayId": 6,
-      "id": 75
-    },
-    {
-      "truckId": 10,
-      "neighborhoodId": 2,
-      "dayId": 1,
-      "id": 76
     },
     {
       "truckId": 11,
@@ -3124,24 +3066,9 @@
       "foodTypeId": 4
     },
     {
-      "id": 7,
-      "truckId": 7,
-      "foodTypeId": 6
-    },
-    {
       "id": 8,
       "truckId": 8,
       "foodTypeId": 5
-    },
-    {
-      "id": 9,
-      "truckId": 9,
-      "foodTypeId": 6
-    },
-    {
-      "id": 10,
-      "truckId": 10,
-      "foodTypeId": 6
     },
     {
       "id": 11,
@@ -3152,11 +3079,6 @@
       "id": 12,
       "truckId": 12,
       "foodTypeId": 3
-    },
-    {
-      "id": 13,
-      "truckId": 9,
-      "foodTypeId": 5
     },
     {
       "truckId": 13,
