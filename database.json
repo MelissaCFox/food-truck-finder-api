@@ -145,6 +145,8 @@
       "description": "Gourmet Hawaiian shaved ice made with 100% cane sugar",
       "websiteURL": "https://www.bluemonkeyshavedice.com/",
       "instagramURL": "https://www.instagram.com/bluemonkeyice/",
+      "facebookURL": "",
+      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/181569119_3933528183396908_8191068417583736295_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=iiIDeyiBfBYAX9hOSE0&_nc_ht=scontent-atl3-2.xx&oh=7331f6fd9ef06646187cd5445233a5f3&oe=61D4FA6C",
       "hours": "10am-4pm",
       "dollars": 1,
@@ -229,16 +231,17 @@
       "userRating": 5
     },
     {
-      "id": 13,
       "name": "Twisted Thai",
       "description": "Thai inspired street food with a twist!",
+      "websiteURL": "",
       "instagramURL": "https://www.instagram.com/twistedthai/?hl=en",
       "facebookURL": "",
       "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/16266220_384553188591992_711093882303317474_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P1jkNVYcIN0AX_3DPqQ&_nc_ht=scontent-atl3-2.xx&oh=00_AT8Z0XkbEVmxAjyA8A3qLpvFrfvFjHvPcOnsUmW8hgv1Sg&oe=61E590AB",
-      "hours": "11-2",
+      "hours": "11-4",
       "dollars": 2,
-      "userRating": 0
+      "userRating": 0,
+      "id": 13
     },
     {
       "name": "Franklin's Fruit Tea",
@@ -974,18 +977,8 @@
     },
     {
       "userId": 13,
-      "truckId": 1,
-      "id": 36
-    },
-    {
-      "userId": 13,
       "truckId": 4,
       "id": 39
-    },
-    {
-      "userId": 13,
-      "truckId": 3,
-      "id": 40
     },
     {
       "userId": 12,
@@ -1031,6 +1024,11 @@
       "userId": 2,
       "truckId": 16,
       "id": 52
+    },
+    {
+      "userId": 13,
+      "truckId": 40,
+      "id": 53
     }
   ],
   "userTruckReviews": [
@@ -3081,16 +3079,6 @@
       "foodTypeId": 3
     },
     {
-      "truckId": 13,
-      "foodTypeId": 4,
-      "id": 14
-    },
-    {
-      "truckId": 13,
-      "foodTypeId": 7,
-      "id": 15
-    },
-    {
       "truckId": 14,
       "foodTypeId": 8,
       "id": 16
@@ -3394,29 +3382,19 @@
       "truckId": 46,
       "foodTypeId": 8,
       "id": 76
+    },
+    {
+      "truckId": 13,
+      "foodTypeId": 4,
+      "id": 80
+    },
+    {
+      "truckId": 13,
+      "foodTypeId": 7,
+      "id": 81
     }
   ],
   "suggestions": [
-    {
-      "userId": 1,
-      "truckId": 13,
-      "neighborhoodId": 4,
-      "date": "2021-12-25",
-      "message": "Santa brunch at Elmington Park from 11am-2pm.",
-      "read": true,
-      "includeContact": false,
-      "id": 2
-    },
-    {
-      "userId": 12,
-      "truckId": 13,
-      "neighborhoodId": 5,
-      "date": "2021-12-24",
-      "message": "just for fun",
-      "read": true,
-      "includeContact": false,
-      "id": 3
-    },
     {
       "userId": 6,
       "truckId": 3,
@@ -3443,7 +3421,7 @@
       "neighborhoodId": 3,
       "date": "2022-01-01",
       "message": "Will absolutely require hangover food, 11:30am at the corner of main and 12th",
-      "read": false,
+      "read": true,
       "includeContact": true,
       "id": 9
     },
@@ -3456,16 +3434,6 @@
       "read": false,
       "includeContact": true,
       "id": 10
-    },
-    {
-      "userId": 12,
-      "truckId": 13,
-      "neighborhoodId": 4,
-      "date": "12/8/2021",
-      "message": "check out the date",
-      "read": false,
-      "includeContact": false,
-      "id": 11
     },
     {
       "userId": 6,
