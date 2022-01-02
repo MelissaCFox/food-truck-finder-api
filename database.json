@@ -119,12 +119,10 @@
       "description": "Grilled cheese. Need we say more?",
       "websiteURL": "https://grilledcheeserie.com/",
       "instagramURL": "https://www.instagram.com/thegrilledcheeserie/",
-      "facebookURL": "https://www.facebook.com/GrilledCheeserieMeltShop/",
-      "twitterURL": "https://twitter.com/GrlldCheeserie?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/15894691_446926545696383_836555503444420918_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mvZNF9EKZXoAX_SsxOG&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=24fd052765c95c31f41a0fa9ad43ddb1&oe=61D1EDDC",
       "hours": "12pm-4pm",
       "dollars": 1,
-      "userRating": 5
+      "userRating": 4.666666666666667
     },
     {
       "id": 2,
@@ -132,12 +130,10 @@
       "description": "Vintage Mexican cuisine with a modern twist",
       "websiteURL": "https://yayosomg.com/",
       "instagramURL": "https://www.instagram.com/yayosomg/",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/216266_167892329930988_2860126_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4uIhewS0FNEAX_ax1q6&_nc_ht=scontent-atl3-2.xx&oh=92930e0702782ca377ef0f7798c69696&oe=61D5CF85",
       "hours": "11am-3pm",
       "dollars": 1,
-      "userRating": 0
+      "userRating": 4
     },
     {
       "id": 3,
@@ -145,12 +141,10 @@
       "description": "Gourmet Hawaiian shaved ice made with 100% cane sugar",
       "websiteURL": "https://www.bluemonkeyshavedice.com/",
       "instagramURL": "https://www.instagram.com/bluemonkeyice/",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/181569119_3933528183396908_8191068417583736295_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=iiIDeyiBfBYAX9hOSE0&_nc_ht=scontent-atl3-2.xx&oh=7331f6fd9ef06646187cd5445233a5f3&oe=61D4FA6C",
       "hours": "10am-4pm",
       "dollars": 1,
-      "userRating": 4.166666666666667
+      "userRating": 4.5
     },
     {
       "id": 4,
@@ -158,12 +152,10 @@
       "description": "Authentic Maine lobster - as seen on Shark Tank!",
       "websiteURL": "https://www.cousinsmainelobster.com/locations/nashville-tn/",
       "instagramURL": "https://www.instagram.com/cousinsmainelobster/",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/120038346_3416632551738335_1713002865758525185_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GHHQAeGGZHkAX_bRtxH&_nc_ht=scontent-atl3-2.xx&oh=695b5c2d06d0ce8078fa2e5d95757348&oe=61D2C30E",
       "hours": "4pm-7pm",
       "dollars": 2,
-      "userRating": 5
+      "userRating": 3.5
     },
     {
       "id": 5,
@@ -184,12 +176,10 @@
       "description": "Korean street food featuring crowd-pleasing Korean fried chicken, poke, and ramen",
       "websiteURL": "https://www.facebook.com/funkseoultruck/",
       "instagramURL": "https://www.instagram.com/funkseoultruck/?hl=en",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/13988121_1127865500590047_875621548803343299_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=HMEaqITE8VgAX9TsxRq&_nc_ht=scontent-atl3-2.xx&oh=3da706c4e302abf94429f455de960657&oe=61D501BB",
       "hours": "1pm-3pm",
       "dollars": 2,
-      "userRating": 0
+      "userRating": 3.5
     },
     {
       "id": 8,
@@ -210,12 +200,10 @@
       "description": "Sweet and savory crepes served in traditional Paris street-style cones",
       "websiteURL": "https://www.gypsycrepecompany.com/",
       "instagramURL": "https://www.instagram.com/gypsycrepeco/?hl=en",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "http://static1.squarespace.com/static/5a6626231f318dbc77648fd0/t/5a662c8b71c10bfb2a4d2a07/1516645539162/GypsyCrepeCo-ColourHqFinal.jpg?format=1500w",
       "hours": "4pm-9pm",
       "dollars": 1,
-      "userRating": 0
+      "userRating": 5
     },
     {
       "id": 12,
@@ -223,24 +211,20 @@
       "description": "A donut kitchen on wheels.",
       "websiteURL": " http://www.drivingyoudonuts.com/",
       "instagramURL": "https://www.instagram.com/drivingyoudonuts/?hl=en",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/162670894_270943864521688_7233244360258708695_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ltOQz7fQ4n8AX9lmap4&_nc_ht=scontent-atl3-2.xx&oh=8b81fb99126763ddec4e238533c431af&oe=61DE5758",
       "hours": "8:30am-11am",
       "dollars": 2,
-      "userRating": 5
+      "userRating": 4.5
     },
     {
       "name": "Twisted Thai",
       "description": "Thai inspired street food with a twist!",
       "websiteURL": "",
       "instagramURL": "https://www.instagram.com/twistedthai/?hl=en",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/16266220_384553188591992_711093882303317474_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=P1jkNVYcIN0AX_3DPqQ&_nc_ht=scontent-atl3-2.xx&oh=00_AT8Z0XkbEVmxAjyA8A3qLpvFrfvFjHvPcOnsUmW8hgv1Sg&oe=61E590AB",
       "hours": "11-4",
       "dollars": 2,
-      "userRating": 0,
+      "userRating": 5,
       "id": 13
     },
     {
@@ -257,30 +241,26 @@
       "id": 14
     },
     {
+      "id": 15,
       "name": "Fatty Matty's Pizza",
       "description": "New York Style pizza with handmade dough and homemade sauce.",
       "websiteURL": "",
       "instagramURL": "https://www.instagram.com/Fattymattysmobilepizza/",
-      "facebookURL": "https://www.facebook.com/FattyMattysPizza",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/20728993_1854381637916172_3981556584205738908_o.jpg?_nc_cat=110&ccb=1-5&_nc_sid=19026a&_nc_ohc=Hx0w8bPv-jMAX-bnkNP&_nc_oc=AQl8e0JEbmV21OHiwtlsh92ZExpzzaYfCKbhiBYzLvWTFQjpeGRAjsdhshXhpxbEFykF6uVW62RL5XvfPafCcrBs&_nc_ht=scontent-atl3-2.xx&oh=00_AT8o2KLMbc8_g95U-uwOHwoF1XGLzyC85LM4ItrEzo-nPw&oe=61EF22DD",
       "hours": "10am-4pm",
       "dollars": 1,
-      "userRating": 0,
-      "id": 15
+      "userRating": 3
     },
     {
+      "id": 16,
       "name": "Chivanada",
       "description": "Colombian empanadas served with the sounds of the hottest Salsa!",
       "websiteURL": "https://www.chivanada.com/",
       "instagramURL": "https://www.instagram.com/chivanada/",
-      "facebookURL": "https://www.facebook.com/chivanada",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/40161811_1054055911445302_9093214311374913536_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=As95yo71s1AAX-R4Omi&_nc_oc=AQkVEQtRceXAecjX5vhq3m0vzPnNDRedhJk5kgLJZQ2BMgsX8hJIoR_UdL1XNZkhvgLUccmMdVDnMdqcKur8wYGm&_nc_ht=scontent-atl3-2.xx&oh=00_AT9g1E7TT0Obd41oxBomGryijX2DPGnY2_9IprmYNkiH6g&oe=61F2BAD2",
       "hours": "2pm-7pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 16
+      "userRating": 4
     },
     {
       "name": "The Rolling Recipe",
@@ -309,17 +289,15 @@
       "id": 18
     },
     {
+      "id": 19,
       "name": "Zander's",
       "description": "Hot, made from scratch, wood-fired pizzas, plus ice cream!",
       "websiteURL": "http://www.zanderspizza.com/",
       "instagramURL": "https://www.instagram.com/zanderspizza/?hl=en",
-      "facebookURL": "https://www.facebook.com/zandersmobile/",
-      "twitterURL": "https://twitter.com/zanderspizza",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/52755283_1092391717600366_1253661019096481792_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rxD6cMfFWLoAX-o5Kqp&_nc_oc=AQmTrs9g4KdlKUz29kOHgFdGq9aEdwl3jeSTk7o96ny92HLSQ0JdMjqg8WgBGIuk5icwa8KeCYW0Mg6VYLBy9sxO&_nc_ht=scontent-atl3-2.xx&oh=00_AT-werIvv9-R0q_RLMyV7lR6rPwMDv0_1MQJk-W4YT-Njw&oe=61F1BE29",
       "hours": "10am-4pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 19
+      "userRating": 3.6666666666666665
     },
     {
       "name": "Nash Dogs",
@@ -374,30 +352,26 @@
       "id": 23
     },
     {
+      "id": 24,
       "name": "Single Tree BBQ",
       "description": "Wood. Fire. BBQ. We keep it simple to create amazing brisket, pork, and other specialty items.",
       "websiteURL": "https://www.singletreebbq.com/",
       "instagramURL": "https://www.instagram.com/singletreebbq/?hl=en",
-      "facebookURL": "",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/127237460_112580614004721_2027925246035917640_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_ohc=z7OedI-rM2sAX_hAOXe&_nc_ht=scontent-atl3-2.xx&oh=00_AT8WYWt5B-22YIcQdWxoejFyfr4IS_GRGdOm7K4_81Dwpw&oe=61F21B9F",
       "hours": "1:30pm-6pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 24
+      "userRating": 3
     },
     {
+      "id": 25,
       "name": "Mrs. Grissom's Panini Grill",
       "description": "Serving pimento cheese sandwiches, chicken salad, buffalo chicken nachos and more!",
       "websiteURL": "",
       "instagramURL": "https://www.instagram.com/mrsgrissomspaninigrill/?hl=en",
-      "facebookURL": "https://www.facebook.com/mrsgrissomspaninigrill/",
-      "twitterURL": "https://twitter.com/mrsgpaninigrill/status/1444286839981068292",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/53417265_268755084037581_3752514202120486912_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=t_M6fmqDwKQAX-QOKH_&_nc_ht=scontent-atl3-2.xx&oh=00_AT_vl0mI6RLZCgbJd0YXN0dWMGL7vk_XCklpj4_q4ES5fg&oe=61F20690",
       "hours": "5pm-11:30pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 25
+      "userRating": 4
     },
     {
       "name": "Ellie Mae's Cafe",
@@ -413,69 +387,59 @@
       "id": 26
     },
     {
+      "id": 27,
       "name": "Vee's Chick N Cones",
       "description": "We have created an awesome twist on Chicken and Waffles! We serve crispy chicken, with many sauce options, served in a warm waffle cone.",
       "websiteURL": "",
       "instagramURL": "https://www.instagram.com/veeschickncones/?hl=en",
-      "facebookURL": "https://www.facebook.com/Vees-Chick-N-Cones-113539490501094/",
-      "twitterURL": "https://twitter.com/VeeCones?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/120007549_113540147167695_3611087817978770817_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=bxZKsptDUcwAX8a7y74&_nc_ht=scontent-atl3-2.xx&oh=00_AT8iXgT7U5Xyxnlnpb38Zn5vk7plIowndQnovAEh3M0JJQ&oe=61F18FC9",
       "hours": "10am-4pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 27
+      "userRating": 3
     },
     {
+      "id": 28,
       "name": "The TN Cobbler Co.",
       "description": "Southern inspired sweet truck",
       "websiteURL": "https://www.tncobblerco.com/",
       "instagramURL": "https://www.instagram.com/tncobblerco/?hl=en",
-      "facebookURL": "https://www.facebook.com/TNCobblerCo/",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t31.18172-8/13416831_1339160166099701_8232557228685942573_o.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=t3gNeRdioAEAX8iTbqA&_nc_ht=scontent-atl3-2.xx&oh=00_AT8bvoPuPFL47xMZPg56RHcs9o0S-i95S5gIAWXLAvx47A&oe=61F15DCB",
       "hours": "4pm-9pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 28
+      "userRating": 4
     },
     {
+      "id": 29,
       "name": "Roscoes Smoked BBQ",
       "description": "Hickory smoked goodness (fresh meats!), freshly baked buns, freshly made sides",
       "websiteURL": "http://www.roscoessmokedbbq.com/",
       "instagramURL": "https://www.instagram.com/roscoessmokedbbq/?hl=en",
-      "facebookURL": "https://www.facebook.com/roscoessmokedbbq/",
-      "twitterURL": "https://twitter.com/roscoessmoked",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/34305382_977577522417256_4864952272708173824_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=1oUejtz4460AX8fXCSr&_nc_ht=scontent-atl3-2.xx&oh=00_AT-DPpV32yQIVd7shOHL8DNfnTCLl1shdYUEq7cCWEgTAw&oe=61F2E9DF",
       "hours": "12pm-5pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 29
+      "userRating": 4
     },
     {
+      "id": 30,
       "name": "Adams Barbecue",
       "description": "Specializing in brisket, ribs, pulled pork, and smoked wings, with signatures including candy bacon, bacon-wrapped potatoes, and the Grover Sandwich",
       "websiteURL": "https://www.adamsbarbecue.com/",
       "instagramURL": "https://www.instagram.com/adamsbarbecuetn/?hl=en",
-      "facebookURL": "https://www.facebook.com/eadamsbarbecue/",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/79162030_2408386006079738_7571688010366844928_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=NmH4hB52ydAAX9ZbW6Z&_nc_ht=scontent-atl3-2.xx&oh=00_AT_zH03LwRImXpmRj4iJgolkpj3-BlVDN3Ts2vrNBV0VYA&oe=61F2371E",
       "hours": "11am-2pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 30
+      "userRating": 4.333333333333333
     },
     {
+      "id": 31,
       "name": "Firelime Offshore Grill",
       "description": "Miami style tropical cuisine",
       "websiteURL": "",
       "instagramURL": "https://www.instagram.com/firelime_offshore_grill/?hl=en",
-      "facebookURL": "https://www.facebook.com/firelimegrill/",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/242939043_332877261921989_2861026027073605912_n.jpg?_nc_cat=105&_nc_rgb565=1&ccb=1-5&_nc_sid=174925&_nc_ohc=Y9NOx22hs4wAX98qk2E&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=00_AT8QYuOkQWS10SVcC_tNU0KuW-soUPJySxMY9PRwfQ0RtA&oe=61CF93DD",
       "hours": "11am-2pm",
       "dollars": 1,
-      "userRating": 0,
-      "id": 31
+      "userRating": 4
     },
     {
       "name": "Snack Barr",
@@ -543,17 +507,15 @@
       "id": 36
     },
     {
+      "id": 37,
       "name": "Hattie Jane's Creamery",
       "description": "Small-batch, custard-based ice cream",
       "websiteURL": "https://hattiejanescreamery.com/",
       "instagramURL": "https://www.instagram.com/hattiejanescreamery/?hl=en",
-      "facebookURL": "https://www.facebook.com/HattieJanesCreamery/",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/70752499_2363135173954254_1448258252042141696_n.png?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=UTiKUSfCIS0AX9CicSb&_nc_ht=scontent-atl3-2.xx&oh=00_AT_-koa2hJWHdcwDEIYYbYeKL_VwskYrusDTchYToJmtZA&oe=61F2B374",
       "hours": "12pm-5pm",
       "dollars": 1,
-      "userRating": 0,
-      "id": 37
+      "userRating": 5
     },
     {
       "name": "Haute Wheels",
@@ -569,30 +531,26 @@
       "id": 38
     },
     {
+      "id": 39,
       "name": "I Lovitt - Cheesecakes",
       "description": "Baking the world a better place. Specializing in custom, made-with-love cheesecakes.",
       "websiteURL": "https://ilovittcheesecakes.com/",
       "instagramURL": "https://www.instagram.com/ilovittcheesecakes/?hl=en",
-      "facebookURL": "https://www.facebook.com/ilovittcheesecakes/",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/97992575_2283504245291663_6949278581239316480_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=whpau2T3Zk0AX_r7-Yk&_nc_ht=scontent-atl3-2.xx&oh=00_AT91i4SufTLUK56egtAUUlO-myBCBxlV6l3kxVTgnUVqNA&oe=61F15100",
       "hours": "11am-4pm",
       "dollars": 1,
-      "userRating": 0,
-      "id": 39
+      "userRating": 4
     },
     {
+      "id": 40,
       "name": "Mojo Cookie Dough",
       "description": "The ultimate cookie and ice cream experience! Made to order signatures or build your own masterpiece. Awesome soda floats, big scoops, popular flavors, and toppings.",
       "websiteURL": "http://www.mojocookiedough.com/",
       "instagramURL": "https://www.instagram.com/mojocookiedough/?hl=en",
-      "facebookURL": "https://www.facebook.com/mojocookiedoughfoodtruckandcatering/",
-      "twitterURL": "https://twitter.com/mojocookiedough",
       "profileImgSrc": "https://pbs.twimg.com/media/Cm369kVWYAAvZHP?format=jpg&name=large",
       "hours": "11am-6pm",
       "dollars": 2,
-      "userRating": 0,
-      "id": 40
+      "userRating": 4
     },
     {
       "id": 41,
@@ -606,17 +564,15 @@
       "userRating": 4
     },
     {
+      "id": 42,
       "name": "Peach Cobbler Factory",
       "description": "Come to enjoy delicious cobbler, ice cream, cinnamon rolls, banana pudding desserts and most importantly... memories.",
       "websiteURL": "https://www.peachcobblerfactory.com/",
       "instagramURL": "https://www.instagram.com/peachcobblerfactory/",
-      "facebookURL": "",
-      "twitterURL": "https://twitter.com/CobblerFactory",
       "profileImgSrc": "https://pbs.twimg.com/profile_images/849746065075060736/Sd6rJ1GV_400x400.jpg",
       "hours": "10am-4pm",
       "dollars": 3,
-      "userRating": 0,
-      "id": 42
+      "userRating": 4
     },
     {
       "name": "Tennessee Tatercakes",
@@ -645,17 +601,15 @@
       "id": 44
     },
     {
+      "id": 45,
       "name": "Whisk and the Whimsy",
       "description": "Specialty cupcakes and cookies for all events.",
       "websiteURL": "https://www.whiskandthewhimsy.com/",
       "instagramURL": "https://www.instagram.com/whiskandwhimsycookies/?hl=en",
-      "facebookURL": "https://www.facebook.com/whiskandthewhimsy/",
-      "twitterURL": "",
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/156837848_3805833716171055_7943071676693865582_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=l3sKxf4NqOEAX_Im1zg&_nc_ht=scontent-atl3-2.xx&oh=00_AT8wkDH2jNDQrrfLfALg042jE1rWu87X55MUwMlRgKDeTw&oe=61F0AF92",
       "hours": "2pm-4pm",
       "dollars": 3,
-      "userRating": 0,
-      "id": 45
+      "userRating": 2.6666666666666665
     },
     {
       "name": "Wawa Expresso",
@@ -952,6 +906,10 @@
     {
       "type": "Vegetarian",
       "id": 16
+    },
+    {
+      "type": "Vietnamese",
+      "id": 17
     }
   ],
   "userTruckFavorites": [
@@ -1083,84 +1041,364 @@
       "anonymous": false
     },
     {
-      "userId": 14,
-      "truckId": 41,
-      "review": "received the royal treatment!",
-      "date": "12/15/2021",
-      "parsedDate": 1639627500000,
+      "userId": 1,
+      "truckId": 3,
+      "review": "So good! Lots of great flavor options.",
+      "date": "5/24/2021",
+      "parsedDate": 1621900800000,
       "anonymous": false,
+      "rating": 4,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "truckId": 3,
+      "review": "Service was kind of slow but the shaved ice had a great texture and tested really good.",
+      "date": "8/12/2021",
+      "parsedDate": 1628812800000,
+      "anonymous": true,
+      "rating": 4,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "truckId": 3,
+      "review": "Perfect afternoon treat!",
+      "date": "9/15/2021",
+      "parsedDate": 1631750400000,
+      "anonymous": true,
       "rating": 5,
       "id": 11
     },
     {
-      "userId": 14,
-      "truckId": 41,
-      "review": "twas lovely",
-      "date": "12/21/2021",
-      "parsedDate": 1640100000000,
+      "userId": 1,
+      "truckId": 12,
+      "review": "Good. They could give Voodoo Donuts a run for their money.",
+      "date": "11/24/2021",
+      "parsedDate": 1637798400000,
       "anonymous": false,
       "rating": 4,
       "id": 12
     },
     {
-      "userId": 14,
-      "truckId": 41,
-      "review": "once more for the ladies",
+      "userId": 1,
+      "truckId": 11,
+      "review": "Can't go wrong with crepes! Delicious!",
       "date": "12/14/2021",
       "parsedDate": 1639526400000,
       "anonymous": false,
-      "rating": 3,
+      "rating": 5,
       "id": 13
     },
     {
-      "userId": 14,
-      "truckId": 3,
-      "review": "Simply delicious",
-      "date": "12/15/2021",
-      "parsedDate": 1639627500000,
-      "anonymous": false,
-      "rating": 4,
+      "userId": 1,
+      "truckId": 4,
+      "review": "Kinda expensive and the tots were cold...",
+      "date": "1/11/2022",
+      "parsedDate": 1641945600000,
+      "anonymous": true,
+      "rating": 2,
       "id": 14
     },
     {
-      "userId": 2,
-      "truckId": 3,
-      "review": "mid december",
-      "date": "12/13/2021",
-      "parsedDate": 1639400000000,
+      "userId": 1,
+      "truckId": 25,
+      "review": "Great service and tasted great!",
+      "date": "12/23/2021",
+      "parsedDate": 1640304000000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "truckId": 28,
+      "review": "Stumbled on these guys while wandering around The Nations last weekend, what an awesome surprise!",
+      "date": "12/12/2021",
+      "parsedDate": 1639353600000,
       "anonymous": false,
       "rating": 4,
       "id": 16
     },
     {
-      "userId": 2,
-      "truckId": 3,
-      "review": "new one - end of december",
-      "date": "12/29/2021",
-      "parsedDate": 1640800000000,
+      "userId": 1,
+      "truckId": 24,
+      "review": "These guys have some of the best BBQ around.",
+      "date": "12/4/2021",
+      "parsedDate": 1638662400000,
       "anonymous": false,
-      "rating": 5,
+      "rating": 4,
       "id": 17
     },
     {
-      "userId": 2,
-      "truckId": 3,
-      "review": "testing parsed date property value",
-      "date": "12/14/2021",
-      "parsedDate": 1639526400000,
-      "anonymous": false,
-      "rating": 3,
+      "userId": 1,
+      "truckId": 24,
+      "review": "Eh, the flavors weren't quite there... not my thing.",
+      "date": "11/11/2021",
+      "parsedDate": 1636675200000,
+      "anonymous": true,
+      "rating": 2,
       "id": 18
     },
     {
-      "userId": 2,
-      "truckId": 3,
-      "review": "new",
-      "date": "12/19/2021",
-      "parsedDate": 1639958400000,
+      "userId": 1,
+      "truckId": 1,
+      "review": "I've only been to their permanent place in Hillsboro but I'd image their truck is just as great! Grilled cheese is a simple recipe but they do it oh so well!",
+      "date": "8/13/2021",
+      "parsedDate": 1628899200000,
       "anonymous": false,
       "rating": 4,
       "id": 19
+    },
+    {
+      "userId": 1,
+      "truckId": 16,
+      "review": "A great option for lunch - be sure to check them out if you see them in the area!",
+      "date": "6/10/2021",
+      "parsedDate": 1623369600000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "truckId": 16,
+      "review": "So good! Instantly brought back memories of my trip to Medellín a couple years ago :)",
+      "date": "3/10/2021",
+      "parsedDate": 1615420800000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "truckId": 27,
+      "review": "Not revolutionary or anything but a cool twist on a southern staple.",
+      "date": "6/15/2021",
+      "parsedDate": 1623801600000,
+      "anonymous": false,
+      "rating": 3,
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "truckId": 37,
+      "review": "Love love love frozen custard!",
+      "date": "8/11/2021",
+      "parsedDate": 1628726400000,
+      "anonymous": false,
+      "rating": 5,
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "truckId": 13,
+      "review": "Flavors were perfect! *chefs kiss*",
+      "date": "10/15/2021",
+      "parsedDate": 1634342400000,
+      "anonymous": false,
+      "rating": 5,
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "truckId": 41,
+      "review": "Awesome tacos at a great price!",
+      "date": "1/4/2022",
+      "parsedDate": 1641340800000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "truckId": 40,
+      "review": "A little pricey but worth the splurge for fans of cookie dough",
+      "date": "10/7/2021",
+      "parsedDate": 1633651200000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 26
+    },
+    {
+      "userId": 1,
+      "truckId": 40,
+      "review": "We had Mojo come to our daughter's birthday party and they were a huge hit with everyone.",
+      "date": "8/9/2021",
+      "parsedDate": 1628553600000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "truckId": 29,
+      "review": "Roscoe's catered one of our work lunches and it was delicious!",
+      "date": "8/10/2021",
+      "parsedDate": 1628640000000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 28
+    },
+    {
+      "userId": 1,
+      "truckId": 2,
+      "review": "Love these dudes, they run a cool truck.",
+      "date": "8/12/2021",
+      "parsedDate": 1628812800000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 29
+    },
+    {
+      "userId": 1,
+      "truckId": 15,
+      "review": "Not quite true New York style pizza but it's one of the better attempts that I've had.",
+      "date": "7/10/2021",
+      "parsedDate": 1625961600000,
+      "anonymous": true,
+      "rating": 3,
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "truckId": 31,
+      "review": "Nice flavors - definitely reminiscent of Miami vibes.",
+      "date": "10/7/2021",
+      "parsedDate": 1633651200000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 31
+    },
+    {
+      "userId": 1,
+      "truckId": 30,
+      "review": "The bacon-wrapped potatoes are BOMB",
+      "date": "11/16/2021",
+      "parsedDate": 1637107200000,
+      "anonymous": false,
+      "rating": 5,
+      "id": 32
+    },
+    {
+      "userId": 1,
+      "truckId": 30,
+      "review": "Super long line when I went but their food tasted good.",
+      "date": "12/13/2021",
+      "parsedDate": 1639440000000,
+      "anonymous": false,
+      "rating": 3,
+      "id": 33
+    },
+    {
+      "userId": 1,
+      "truckId": 30,
+      "review": "Definitely try the Grover Sandwich!",
+      "date": "12/9/2021",
+      "parsedDate": 1639094400000,
+      "anonymous": false,
+      "rating": 5,
+      "id": 34
+    },
+    {
+      "userId": 1,
+      "truckId": 39,
+      "review": "Their cheesecakes are always soooo gooood.",
+      "date": "4/6/2021",
+      "parsedDate": 1617753600000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 35
+    },
+    {
+      "userId": 1,
+      "truckId": 19,
+      "review": "Pizza and ice cream - can't go wrong with that combo!",
+      "date": "8/12/2021",
+      "parsedDate": 1628812800000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 36
+    },
+    {
+      "userId": 1,
+      "truckId": 19,
+      "review": "Solid.",
+      "date": "3/3/2021",
+      "parsedDate": 1614816000000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 37
+    },
+    {
+      "userId": 1,
+      "truckId": 19,
+      "review": "The guy at the window was full of jokes today, fun lunch",
+      "date": "1/17/2021",
+      "parsedDate": 1610928000000,
+      "anonymous": false,
+      "rating": 3,
+      "id": 38
+    },
+    {
+      "userId": 1,
+      "truckId": 42,
+      "review": "Saw these guys in Berry Hill the other day. We stopped for dessert after dinner with the kids - a nice way to end the night.",
+      "date": "9/10/2021",
+      "parsedDate": 1631318400000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 39
+    },
+    {
+      "userId": 1,
+      "truckId": 6,
+      "review": "Their poke bowls were pretty good.",
+      "date": "1/5/2022",
+      "parsedDate": 1641427200000,
+      "anonymous": false,
+      "rating": 3,
+      "id": 40
+    },
+    {
+      "userId": 1,
+      "truckId": 6,
+      "review": "Love these guys",
+      "date": "12/8/2021",
+      "parsedDate": 1639008000000,
+      "anonymous": false,
+      "rating": 4,
+      "id": 41
+    },
+    {
+      "userId": 1,
+      "truckId": 45,
+      "review": "Too expensive, not worth it.",
+      "date": "1/3/2022",
+      "parsedDate": 1641254400000,
+      "anonymous": true,
+      "rating": 1,
+      "id": 42
+    },
+    {
+      "userId": 1,
+      "truckId": 45,
+      "review": "Pricey, but the kids loved them. Not sure if we will have them cater again though just because of the price though..",
+      "date": "11/2/2021",
+      "parsedDate": 1635897600000,
+      "anonymous": true,
+      "rating": 3,
+      "id": 43
+    },
+    {
+      "userId": 1,
+      "truckId": 45,
+      "review": "The girls here do an awesome job!",
+      "date": "1/5/2022",
+      "parsedDate": 1641427200000,
+      "anonymous": true,
+      "rating": 4,
+      "id": 44
     }
   ],
   "neighborhoods": [
@@ -1641,12 +1879,6 @@
     },
     {
       "truckId": 13,
-      "neighborhoodId": 4,
-      "dayId": 7,
-      "id": 100
-    },
-    {
-      "truckId": 13,
       "neighborhoodId": 2,
       "dayId": 5,
       "id": 102
@@ -1995,7 +2227,7 @@
     },
     {
       "truckId": 22,
-      "neighborhoodId": 8,
+      "neighborhoodId": 2,
       "dayId": 3,
       "id": 163
     },
@@ -2079,7 +2311,7 @@
     },
     {
       "truckId": 24,
-      "neighborhoodId": 10,
+      "neighborhoodId": 5,
       "dayId": 3,
       "id": 177
     },
@@ -2199,7 +2431,7 @@
     },
     {
       "truckId": 27,
-      "neighborhoodId": 7,
+      "neighborhoodId": 2,
       "dayId": 3,
       "id": 198
     },
@@ -2241,7 +2473,7 @@
     },
     {
       "truckId": 28,
-      "neighborhoodId": 8,
+      "neighborhoodId": 2,
       "dayId": 3,
       "id": 205
     },
@@ -2523,7 +2755,7 @@
     },
     {
       "truckId": 37,
-      "neighborhoodId": 9,
+      "neighborhoodId": 2,
       "dayId": 3,
       "id": 254
     },
@@ -2607,7 +2839,7 @@
     },
     {
       "truckId": 38,
-      "neighborhoodId": 10,
+      "neighborhoodId": 2,
       "dayId": 3,
       "id": 268
     },
@@ -2703,7 +2935,7 @@
     },
     {
       "truckId": 42,
-      "neighborhoodId": 9,
+      "neighborhoodId": 1,
       "dayId": 3,
       "id": 284
     },
@@ -2907,7 +3139,7 @@
     },
     {
       "truckId": 40,
-      "neighborhoodId": 10,
+      "neighborhoodId": 11,
       "dayId": 3,
       "id": 318
     },
@@ -3030,6 +3262,12 @@
       "neighborhoodId": 10,
       "dayId": 5,
       "id": 338
+    },
+    {
+      "truckId": 13,
+      "neighborhoodId": 7,
+      "dayId": 6,
+      "id": 339
     }
   ],
   "truckFoodTypes": [
@@ -3386,12 +3624,12 @@
     {
       "truckId": 13,
       "foodTypeId": 4,
-      "id": 80
+      "id": 77
     },
     {
       "truckId": 13,
       "foodTypeId": 7,
-      "id": 81
+      "id": 78
     }
   ],
   "suggestions": [
@@ -3411,19 +3649,9 @@
       "neighborhoodId": 4,
       "date": "2021-12-09",
       "message": "A raucous party at the corner of 5th and main! Be there!",
-      "read": false,
+      "read": true,
       "includeContact": false,
       "id": 7
-    },
-    {
-      "userId": 1,
-      "truckId": 13,
-      "neighborhoodId": 3,
-      "date": "2022-01-01",
-      "message": "Will absolutely require hangover food, 11:30am at the corner of main and 12th",
-      "read": true,
-      "includeContact": true,
-      "id": 9
     },
     {
       "userId": 5,
