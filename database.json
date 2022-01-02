@@ -122,7 +122,7 @@
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/15894691_446926545696383_836555503444420918_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mvZNF9EKZXoAX_SsxOG&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=24fd052765c95c31f41a0fa9ad43ddb1&oe=61D1EDDC",
       "hours": "12pm-4pm",
       "dollars": 1,
-      "userRating": 4.666666666666667
+      "userRating": 4.5
     },
     {
       "id": 2,
@@ -623,6 +623,19 @@
       "dollars": 1,
       "userRating": 0,
       "id": 46
+    },
+    {
+      "name": "Demo Truck",
+      "description": "We can prepare any food you can imagine!",
+      "websiteURL": "https://en.wikipedia.org/wiki/Imagination",
+      "instagramURL": "https://www.instagram.com/explore/tags/imagination/?hl=en",
+      "facebookURL": "",
+      "twitterURL": "https://twitter.com/imagination",
+      "profileImgSrc": "https://media.istockphoto.com/vectors/food-truck-vector-id847893726?k=20&m=847893726&s=612x612&w=0&h=8FXUDGZvXpdcOWn-0DlCh5NmyfozQghAqVdyEo-fv3Y=",
+      "hours": "9am-9pm",
+      "dollars": 1,
+      "userRating": 0,
+      "id": 47
     }
   ],
   "truckOwners": [
@@ -672,7 +685,7 @@
       "id": 12
     },
     {
-      "userId": 12,
+      "userId": 6,
       "truckId": 13,
       "id": 13
     },
@@ -840,6 +853,11 @@
       "userId": 6,
       "truckId": 46,
       "id": 46
+    },
+    {
+      "userId": 12,
+      "truckId": 47,
+      "id": 47
     }
   ],
   "foodTypes": [
@@ -1012,7 +1030,7 @@
     },
     {
       "truckId": 3,
-      "userId": 1,
+      "userId": 3,
       "review": "MMM. Wow, I love this shaved ice so much! Reminds me of my trip to Maui",
       "date": "1/07/2020",
       "parsedDate": 1578400000000,
@@ -1021,7 +1039,7 @@
       "anonymous": false
     },
     {
-      "userId": 1,
+      "userId": 7,
       "truckId": 12,
       "review": "Delicioso! Will definitely be back in the future!",
       "date": "12/13/2021",
@@ -1031,7 +1049,7 @@
       "anonymous": false
     },
     {
-      "userId": 1,
+      "userId": 10,
       "truckId": 4,
       "review": "Tastes just like Maine!",
       "date": "12/08/2021",
@@ -1041,7 +1059,7 @@
       "anonymous": false
     },
     {
-      "userId": 1,
+      "userId": 11,
       "truckId": 3,
       "review": "So good! Lots of great flavor options.",
       "date": "5/24/2021",
@@ -1051,7 +1069,7 @@
       "id": 9
     },
     {
-      "userId": 1,
+      "userId": 5,
       "truckId": 3,
       "review": "Service was kind of slow but the shaved ice had a great texture and tested really good.",
       "date": "8/12/2021",
@@ -1061,7 +1079,7 @@
       "id": 10
     },
     {
-      "userId": 1,
+      "userId": 3,
       "truckId": 3,
       "review": "Perfect afternoon treat!",
       "date": "9/15/2021",
@@ -1071,7 +1089,7 @@
       "id": 11
     },
     {
-      "userId": 1,
+      "userId": 7,
       "truckId": 12,
       "review": "Good. They could give Voodoo Donuts a run for their money.",
       "date": "11/24/2021",
@@ -1081,7 +1099,7 @@
       "id": 12
     },
     {
-      "userId": 1,
+      "userId": 9,
       "truckId": 11,
       "review": "Can't go wrong with crepes! Delicious!",
       "date": "12/14/2021",
@@ -1091,7 +1109,7 @@
       "id": 13
     },
     {
-      "userId": 1,
+      "userId": 2,
       "truckId": 4,
       "review": "Kinda expensive and the tots were cold...",
       "date": "1/11/2022",
@@ -1101,7 +1119,7 @@
       "id": 14
     },
     {
-      "userId": 1,
+      "userId": 8,
       "truckId": 25,
       "review": "Great service and tasted great!",
       "date": "12/23/2021",
@@ -1111,7 +1129,7 @@
       "id": 15
     },
     {
-      "userId": 1,
+      "userId": 3,
       "truckId": 28,
       "review": "Stumbled on these guys while wandering around The Nations last weekend, what an awesome surprise!",
       "date": "12/12/2021",
@@ -1121,7 +1139,7 @@
       "id": 16
     },
     {
-      "userId": 1,
+      "userId": 14,
       "truckId": 24,
       "review": "These guys have some of the best BBQ around.",
       "date": "12/4/2021",
@@ -1131,7 +1149,7 @@
       "id": 17
     },
     {
-      "userId": 1,
+      "userId": 7,
       "truckId": 24,
       "review": "Eh, the flavors weren't quite there... not my thing.",
       "date": "11/11/2021",
@@ -1141,7 +1159,7 @@
       "id": 18
     },
     {
-      "userId": 1,
+      "userId": 4,
       "truckId": 1,
       "review": "I've only been to their permanent place in Hillsboro but I'd image their truck is just as great! Grilled cheese is a simple recipe but they do it oh so well!",
       "date": "8/13/2021",
@@ -1151,7 +1169,7 @@
       "id": 19
     },
     {
-      "userId": 1,
+      "userId": 9,
       "truckId": 16,
       "review": "A great option for lunch - be sure to check them out if you see them in the area!",
       "date": "6/10/2021",
@@ -1161,7 +1179,7 @@
       "id": 20
     },
     {
-      "userId": 1,
+      "userId": 10,
       "truckId": 16,
       "review": "So good! Instantly brought back memories of my trip to Medellín a couple years ago :)",
       "date": "3/10/2021",
@@ -1171,7 +1189,7 @@
       "id": 21
     },
     {
-      "userId": 1,
+      "userId": 11,
       "truckId": 27,
       "review": "Not revolutionary or anything but a cool twist on a southern staple.",
       "date": "6/15/2021",
@@ -1181,7 +1199,7 @@
       "id": 22
     },
     {
-      "userId": 1,
+      "userId": 14,
       "truckId": 37,
       "review": "Love love love frozen custard!",
       "date": "8/11/2021",
@@ -1191,7 +1209,7 @@
       "id": 23
     },
     {
-      "userId": 1,
+      "userId": 2,
       "truckId": 13,
       "review": "Flavors were perfect! *chefs kiss*",
       "date": "10/15/2021",
@@ -1201,7 +1219,7 @@
       "id": 24
     },
     {
-      "userId": 1,
+      "userId": 3,
       "truckId": 41,
       "review": "Awesome tacos at a great price!",
       "date": "1/4/2022",
@@ -1211,7 +1229,7 @@
       "id": 25
     },
     {
-      "userId": 1,
+      "userId": 4,
       "truckId": 40,
       "review": "A little pricey but worth the splurge for fans of cookie dough",
       "date": "10/7/2021",
@@ -1221,7 +1239,7 @@
       "id": 26
     },
     {
-      "userId": 1,
+      "userId": 5,
       "truckId": 40,
       "review": "We had Mojo come to our daughter's birthday party and they were a huge hit with everyone.",
       "date": "8/9/2021",
@@ -1231,7 +1249,7 @@
       "id": 27
     },
     {
-      "userId": 1,
+      "userId": 11,
       "truckId": 29,
       "review": "Roscoe's catered one of our work lunches and it was delicious!",
       "date": "8/10/2021",
@@ -1241,7 +1259,7 @@
       "id": 28
     },
     {
-      "userId": 1,
+      "userId": 7,
       "truckId": 2,
       "review": "Love these dudes, they run a cool truck.",
       "date": "8/12/2021",
@@ -1251,7 +1269,7 @@
       "id": 29
     },
     {
-      "userId": 1,
+      "userId": 8,
       "truckId": 15,
       "review": "Not quite true New York style pizza but it's one of the better attempts that I've had.",
       "date": "7/10/2021",
@@ -1261,7 +1279,7 @@
       "id": 30
     },
     {
-      "userId": 1,
+      "userId": 9,
       "truckId": 31,
       "review": "Nice flavors - definitely reminiscent of Miami vibes.",
       "date": "10/7/2021",
@@ -1271,7 +1289,7 @@
       "id": 31
     },
     {
-      "userId": 1,
+      "userId": 10,
       "truckId": 30,
       "review": "The bacon-wrapped potatoes are BOMB",
       "date": "11/16/2021",
@@ -1281,7 +1299,7 @@
       "id": 32
     },
     {
-      "userId": 1,
+      "userId": 14,
       "truckId": 30,
       "review": "Super long line when I went but their food tasted good.",
       "date": "12/13/2021",
@@ -1291,7 +1309,7 @@
       "id": 33
     },
     {
-      "userId": 1,
+      "userId": 8,
       "truckId": 30,
       "review": "Definitely try the Grover Sandwich!",
       "date": "12/9/2021",
@@ -1301,7 +1319,7 @@
       "id": 34
     },
     {
-      "userId": 1,
+      "userId": 3,
       "truckId": 39,
       "review": "Their cheesecakes are always soooo gooood.",
       "date": "4/6/2021",
@@ -1311,7 +1329,7 @@
       "id": 35
     },
     {
-      "userId": 1,
+      "userId": 2,
       "truckId": 19,
       "review": "Pizza and ice cream - can't go wrong with that combo!",
       "date": "8/12/2021",
@@ -1321,7 +1339,7 @@
       "id": 36
     },
     {
-      "userId": 1,
+      "userId": 5,
       "truckId": 19,
       "review": "Solid.",
       "date": "3/3/2021",
@@ -1331,7 +1349,7 @@
       "id": 37
     },
     {
-      "userId": 1,
+      "userId": 9,
       "truckId": 19,
       "review": "The guy at the window was full of jokes today, fun lunch",
       "date": "1/17/2021",
@@ -1341,7 +1359,7 @@
       "id": 38
     },
     {
-      "userId": 1,
+      "userId": 10,
       "truckId": 42,
       "review": "Saw these guys in Berry Hill the other day. We stopped for dessert after dinner with the kids - a nice way to end the night.",
       "date": "9/10/2021",
@@ -1351,7 +1369,7 @@
       "id": 39
     },
     {
-      "userId": 1,
+      "userId": 14,
       "truckId": 6,
       "review": "Their poke bowls were pretty good.",
       "date": "1/5/2022",
@@ -1361,7 +1379,7 @@
       "id": 40
     },
     {
-      "userId": 1,
+      "userId": 4,
       "truckId": 6,
       "review": "Love these guys",
       "date": "12/8/2021",
@@ -1371,7 +1389,7 @@
       "id": 41
     },
     {
-      "userId": 1,
+      "userId": 7,
       "truckId": 45,
       "review": "Too expensive, not worth it.",
       "date": "1/3/2022",
@@ -1381,7 +1399,7 @@
       "id": 42
     },
     {
-      "userId": 1,
+      "userId": 8,
       "truckId": 45,
       "review": "Pricey, but the kids loved them. Not sure if we will have them cater again though just because of the price though..",
       "date": "11/2/2021",
@@ -1391,7 +1409,7 @@
       "id": 43
     },
     {
-      "userId": 1,
+      "userId": 2,
       "truckId": 45,
       "review": "The girls here do an awesome job!",
       "date": "1/5/2022",
@@ -1399,6 +1417,16 @@
       "anonymous": true,
       "rating": 4,
       "id": 44
+    },
+    {
+      "userId": 1,
+      "truckId": 1,
+      "review": "One of my favorite spots.",
+      "date": "10/5/2021",
+      "parsedDate": 1633478400000,
+      "anonymous": true,
+      "rating": 4,
+      "id": 45
     }
   ],
   "neighborhoods": [
@@ -1783,7 +1811,7 @@
     },
     {
       "truckId": 1,
-      "neighborhoodId": 5,
+      "neighborhoodId": 1,
       "dayId": 3,
       "id": 67
     },
@@ -2227,7 +2255,7 @@
     },
     {
       "truckId": 22,
-      "neighborhoodId": 2,
+      "neighborhoodId": 5,
       "dayId": 3,
       "id": 163
     },
@@ -3115,7 +3143,7 @@
     },
     {
       "truckId": 45,
-      "neighborhoodId": 10,
+      "neighborhoodId": 9,
       "dayId": 2,
       "id": 314
     },
@@ -3133,7 +3161,7 @@
     },
     {
       "truckId": 40,
-      "neighborhoodId": 6,
+      "neighborhoodId": 7,
       "dayId": 2,
       "id": 317
     },
@@ -3169,7 +3197,7 @@
     },
     {
       "truckId": 35,
-      "neighborhoodId": 10,
+      "neighborhoodId": 9,
       "dayId": 2,
       "id": 323
     },
@@ -3630,6 +3658,26 @@
       "truckId": 13,
       "foodTypeId": 7,
       "id": 78
+    },
+    {
+      "truckId": 47,
+      "foodTypeId": 5,
+      "id": 79
+    },
+    {
+      "truckId": 47,
+      "foodTypeId": 3,
+      "id": 80
+    },
+    {
+      "truckId": 47,
+      "foodTypeId": 16,
+      "id": 81
+    },
+    {
+      "truckId": 47,
+      "foodTypeId": 16,
+      "id": 82
     }
   ],
   "suggestions": [
