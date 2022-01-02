@@ -122,7 +122,7 @@
       "profileImgSrc": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/15894691_446926545696383_836555503444420918_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mvZNF9EKZXoAX_SsxOG&tn=gC_ctWtken33D14b&_nc_ht=scontent-atl3-2.xx&oh=24fd052765c95c31f41a0fa9ad43ddb1&oe=61D1EDDC",
       "hours": "12pm-4pm",
       "dollars": 1,
-      "userRating": 4.5
+      "userRating": 4.333333333333333
     },
     {
       "id": 2,
@@ -1015,16 +1015,6 @@
       "review": "So delicious and super fast service!",
       "date": "12/04/2021",
       "parsedDate": 1638600000000,
-      "rating": 5,
-      "anonymous": false
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "truckId": 1,
-      "review": "SOOOO GOOD! Looooove it so much!",
-      "date": "12/06/2021",
-      "parsedDate": 1638800000000,
       "rating": 5,
       "anonymous": false
     },
@@ -3662,22 +3652,17 @@
     {
       "truckId": 47,
       "foodTypeId": 5,
-      "id": 79
+      "id": 85
     },
     {
       "truckId": 47,
       "foodTypeId": 3,
-      "id": 80
+      "id": 86
     },
     {
       "truckId": 47,
       "foodTypeId": 16,
-      "id": 81
-    },
-    {
-      "truckId": 47,
-      "foodTypeId": 16,
-      "id": 82
+      "id": 87
     }
   ],
   "suggestions": [
