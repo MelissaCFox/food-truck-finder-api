@@ -39,7 +39,7 @@ npm start
 ### Demo login credentials
 - Login with user@demo.com for user view
 - Login with truck@owner.com for owner view
-<img src="./Food-Truck-Finder-Login.gif">
+<img src="./LoginDemo.gif">
 
 ## Author Info
 
